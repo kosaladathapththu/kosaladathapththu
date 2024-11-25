@@ -42,7 +42,7 @@ Hailing from Kurunegala, Sri Lanka, and currently based in Colombo, I'm a passio
   - User management
   - Room allocation
   - Resident tracking
-- [Explore Project](https://github.com/kosaladathapththu/hostel_management)
+- [Explore Project](https://github.com/kosaladathapththu/Hostel-Management-System)
 
 ### 💵 Payroll Management System
 - **Objective**: Develop an efficient payroll tracking and management solution
