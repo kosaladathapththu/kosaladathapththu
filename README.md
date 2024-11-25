@@ -62,7 +62,7 @@ Hailing from Kurunegala, Sri Lanka, and currently based in Colombo, I'm a passio
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kosala%20Athapaththu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosala-athapaththu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kosala%20Athapaththu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosala-athapaththu-a453b9248)
 [![Twitter](https://img.shields.io/badge/Twitter-@KAthapathtu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KAthapathtu)
 [![Gmail](https://img.shields.io/badge/Gmail-kosalaathapaththu1234-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosalaathapaththu1234@gmail.com)
 
