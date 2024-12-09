@@ -1,6 +1,6 @@
 # Hi there, I'm Kosala Daneshwara Athapaththu! 👋🚀
 
-## 🌈 About Me
+## About Me
 **Software Engineer | Tech Innovator | Lifelong Learner**
 
 Hailing from Kurunegala, Sri Lanka, and currently based in Colombo, I'm a passionate software engineer pursuing my studies at NIBM (National Institute of Business Management). My journey is driven by an insatiable curiosity to transform complex challenges into elegant technological solutions.
