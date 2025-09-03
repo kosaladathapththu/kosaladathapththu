@@ -5,19 +5,19 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hello+World!+I'm+Kosala;🎯+Full-Stack+Developer+%7C+Innovator;💡+Transforming+Ideas+→+Reality;🌟+Sri+Lanka+🇱🇰+→+Global+Impact;🚀+Building+Tomorrow's+Solutions;☕+Powered+by+Coffee+%26+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hello+World!+I'm+Kosala;🎯+Full-Stack+Developer+%7C+Innovator;💡+Transforming+Ideas+→+Reality;🌟+Sri+Lanka+🇱🇰+→+Global+Impact;🚀+Building+Tomorrow's+Solutions;☕+Powered+by+Coffee+%26+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kosaladathapththu/kosaladathapththu/main/assets/space-banner.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </div>
 
----
+<br>
 
 ## <div align="center">🎭 Digital Architect & Code Craftsman 🏗️</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kosaladathapththu/kosaladathapththu/main/assets/coding-banner.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <table align="center">
@@ -25,7 +25,6 @@
 <td align="center" width="50%">
 
 ### 🧑‍💻 **Developer Profile**
-
 ```yaml
 Name: "A.M. Kosala Dhaneshwara Athapaththu"
 Location: "Colombo, Sri Lanka 🇱🇰"
@@ -43,10 +42,10 @@ Debug Style: "Coffee-Driven Development"
 
 </td>
 <td align="center" width="50%">
-  <img src="https://raw.githubusercontent.com/kosaladathapththu/kosaladathapththu/main/assets/working.gif" width="400">
-
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=400&lines=💼+Software+Engineering+Student;🔥+3%2B+Years+Digital+Innovation;🌟+Microservices+Specialist;📱+Full-Stack+Expert" alt="Status" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=400&lines=💼+Software+Engineering+Student;🔥+3%2B+Years+Digital+Innovation;🌟+Microservices+Specialist;📱+Full-Stack+Expert" alt="Status" />
   </div>
 </td>
 </tr>
@@ -56,9 +55,20 @@ Debug Style: "Coffee-Driven Development"
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
 </div>
 
----
+<br>
 
 ## <div align="center">🎯 Tech Arsenal & Superpowers 🛡️</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c7a.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,cs,dotnet,php,js,html,css&perline=10&theme=dark" />
@@ -74,37 +84,274 @@ Debug Style: "Coffee-Driven Development"
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
 </div>
 
----
+<br>
 
 ## <div align="center">🚀 Epic Project Showcase 🎪</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kosaladathapththu/kosaladathapththu/main/assets/project-banner.gif" width="120">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120">
 </div>
 
-➡️ *Showcase remains as in your provided version with projects, but optimized images and consistent layout can be applied here.*
+<table>
+<tr>
+<td width="50%">
 
----
+<div align="center">
+
+### 🏨 **Hotel Management Microservices**
+<img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Architecture Highlights:**
+- 🧠 **6 Independent Microservices**
+- 🌐 Spring Boot Backend + React Frontend
+- 🏨 Smart Room Management & Booking
+- 💼 Integrated Employee Payroll
+- 📦 Real-time Inventory Management
+- 📊 Live Admin Dashboard
+- 🔄 RESTful API Communication
+
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 📦 **Smart Inventory System**
+<img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Intelligence Features:**
+- ⚡ **Real-time CRUD Operations**
+- 🔍 Advanced Search & Filtering
+- 📊 Live Stock Monitoring
+- 📈 Automated Report Generation
+- 🎨 Material-UI Design System
+- 🔔 Smart Low Stock Alerts
+- 📱 Mobile-First Architecture
+
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### 🏠 **Complete Hostel Digitization**
+<img src="https://images.unsplash.com/photo-1555854877-bab0e564b8d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Digital Transformation:**
+- 🏫 **End-to-End Hostel Management**
+- 📅 Intelligent Room Allocation
+- 💰 Automated Billing & Payments
+- 📊 Comprehensive Analytics
+- 👩‍💼 Staff Management Portal
+- 📱 Student Mobile Interface
+- 🔐 Role-Based Access Control
+
+<div align="center">
+  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 💵 **Enterprise Payroll Engine**
+<img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Enterprise Features:**
+- 💼 **Automated Salary Processing**
+- ⏰ Smart Attendance Tracking
+- 📊 Advanced Report Generation
+- 🧮 Tax & Deduction Calculator
+- 📈 Performance Analytics
+- 🖥️ Native Desktop Application
+- 💾 Secure Data Management
+
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### 🍕 **PizzaMania Restaurant Hub**
+<img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Restaurant Revolution:**
+- 🍽️ **Dynamic Menu Management**
+- 📱 Online Ordering System
+- 👥 Customer Relationship Management
+- 📊 Sales & Revenue Analytics
+- 🧾 Order Tracking & Status
+- 💳 Payment Gateway Integration
+- 📈 Business Intelligence Dashboard
+
+<div align="center">
+  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 🤖 **IoT & Arduino Adventures**
+<img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Hardware Meets Software:**
+- 🤖 **Arduino-based Robotics**
+- 🌡️ IoT Sensor Networks
+- 📡 Wireless Communication Systems
+- 📱 Mobile App Controllers
+- 🔋 Energy Management Systems
+- 📊 Real-time Data Visualization
+- 🏠 Smart Home Automation
+
+<div align="center">
+  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+</div>
+
+<br>
 
 ## <div align="center">⚡ Current Learning Journey & 2025 Vision 🔮</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kosaladathapththu/kosaladathapththu/main/assets/focus.gif" width="250">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-895e-7d60ddb0d043.gif" width="250">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=🌱+Mastering+React+%2B+MongoDB+Integration;📱+Deep-diving+into+Android+Development;☁️+Exploring+AWS+%26+Azure+Cloud+Platforms;🤖+Building+AI-Powered+Applications;🚀+Advancing+Microservices+Architecture" alt="Learning Journey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=🌱+Mastering+React+%2B+MongoDB+Integration;📱+Deep-diving+into+Android+Development;☁️+Exploring+AWS+%26+Azure+Cloud+Platforms;🤖+Building+AI-Powered+Applications;🚀+Advancing+Microservices+Architecture" alt="Learning Journey" />
 </div>
 
-➡️ *Learning journey code blocks remain unchanged.*
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
----
+### 🎯 **Current Focus**
+```javascript
+const currentProjects = {
+  hotel_management: "Real-time notifications",
+  smart_pos: "AI-powered analytics", 
+  mobile_apps: "React Native cross-platform",
+  cloud_apps: "Docker containerization",
+  iot_projects: "Hardware + Software fusion"
+};
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 **2025 Goals**
+```python
+mission_2025 = {
+    "freelance_career": "Launch & Scale",
+    "cloud_deployments": "10+ Applications",
+    "mobile_releases": "3 Play Store Apps",
+    "open_source": "Community Contributions",
+    "certifications": "AWS/Azure Certified",
+    "github_stars": "100+ Portfolio Stars"
+}
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🌟 **Next Level**
+```yaml
+professional_path:
+  current: "University Excellence"
+  next: "Industry Professional" 
+  ultimate: "Tech Entrepreneur"
+  
+skills_expanding:
+  - Cloud-native development
+  - AI/ML integration
+  - Mobile app publishing
+  - System architecture
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+</div>
+
+<br>
 
 ## <div align="center">📊 GitHub Combat Statistics ⚔️</div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kosaladathapththu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&custom_title=🚀%20Kosala's%20GitHub%20Universe"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kosaladathapththu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&custom_title=💻%20Code%20Language%20Mastery"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-895e-7d60ddb0d043.gif" width="200">
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kosaladathapththu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&custom_title=🚀%20Kosala's%20GitHub%20Universe"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kosaladathapththu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&custom_title=💻%20Code%20Language%20Mastery"/>
 </div>
 
 <div align="center">
@@ -115,7 +362,7 @@ Debug Style: "Coffee-Driven Development"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kosaladathapththu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=ff6b6b&point=ff6b6b&area=true&custom_title=🌌%20Contribution%20Galaxy" alt="GitHub Activity Graph"/>
 </div>
 
----
+<br>
 
 ## <div align="center">🏆 Achievement Gallery 🎖️</div>
 
@@ -123,9 +370,17 @@ Debug Style: "Coffee-Driven Development"
   <img src="https://github-profile-trophy.vercel.app/?username=kosaladathapththu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+</div>
+
+<br>
 
 ## <div align="center">🤝 Connect Across the Digital Cosmos 🌐</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b16d2dd.gif" width="400">
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kosala-d-athapaththu-a453b9248">
@@ -146,17 +401,100 @@ Debug Style: "Coffee-Driven Development"
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A9FEF7&center=true&vCenter=true&width=800&lines=💬+Open+for+Freelance+%26+Collaboration+Projects;🚀+Available+for+Full-Stack+Development+Work;💡+Interested+in+Startup+%26+Innovation+Opportunities;🤝+Ready+to+Help+Fellow+Developers+%26+Students!" alt="Availability" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A9FEF7&center=true&vCenter=true&width=800&lines=💬+Open+for+Freelance+%26+Collaboration+Projects;🚀+Available+for+Full-Stack+Development+Work;💡+Interested+in+Startup+%26+Innovation+Opportunities;🤝+Ready+to+Help+Fellow+Developers+%26+Students!" alt="Availability" />
 </div>
 
----
+<br>
 
 ## <div align="center">💭 Philosophy & Developer Fuel ⚡</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kosaladathapththu/kosaladathapththu/main/assets/coffee.gif" width="350">
+  <img src="https://user-images.githubusercontent.com/74038190/212284153-0b7d8c86-46e3-4b49-a0c9-8b7d5f2cbbf4.gif" width="350">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3500&pause=1200&color=FF6B6B&center=true&vCenter=true&width=900&lines=☕+Coffee+%2B+Curiosity+%2B+Code+%3D+💖+Magic;💻+Code+is+poetry+written+for+machines;🚀+Innovation+thrives+on+collaboration;🌍+Tech+for+global+impact+from+Sri+Lanka" alt="Philosophy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3500&pause=1200&color=FF6B6B&center=true&vCenter=true&width=900&lines=☕+Coffee+%2B+Curiosity+%2B+Code+%3D+💖+Magic;💻+%22Code+is+poetry+written+for+machines%22;🚀+Every+bug+is+a+puzzle+waiting+to+be+solved;⚡+Innovation+happens+outside+comfort+zones;🌟+Clean+code+tells+a+story;💡+The+best+way+to+predict+the+future+is+to+code+it" alt="Philosophy" />
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 🧠 **Development Principles**
+
+| 🎯 **Focus** | 💡 **Philosophy** | 🚀 **Action** |
+|:---:|:---:|:---:|
+| **Quality** | *"Readable = Maintainable"* | Self-documenting code |
+| **UX** | *"Design for humans"* | User-centered approach |
+| **Problem Solving** | *"Creative solutions exist"* | Think unconventionally |
+| **Learning** | *"Stay curious & hungry"* | Daily experimentation |
+| **Teamwork** | *"Great teams = Great software"* | Open collaboration |
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## <div align="center">🎮 Fun Developer Corner 🥚</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-0e4a2a4e-4d8c-4b6d-8c9c-0e8a8b4e6e7a.gif" width="500">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=🐛+Debugging+method%3A+Rubber+duck+%2B+coffee+conversations;🎵+Peak+coding+with+Lo-fi+beats+%26+rain+sounds;🌙+Night+owl+developer+%E2%80%94+2AM+%3D+peak+productivity;🎯+Can+spot+missing+semicolons+from+orbit;🍕+Pizza+%3D+Universal+coding+fuel+of+choice;🎮+Gaming+UI%2FUX+inspires+my+design+thinking" alt="Fun Facts" />
+</div>
+
+### 🏆 **Developer Achievement Unlocked:**
+<div align="center">
+
+```javascript
+const achievements = {
+    first_commit: "Started coding journey 3+ years ago 🥇",
+    fastest_debug: "Production bug fixed in 5 minutes ⚡",
+    longest_streak: "180+ consecutive commit days 🌟",
+    projects_delivered: "15+ full-stack applications 🎯",
+    developers_mentored: "5+ junior developers guided 🤝",
+    coffee_consumed: "Immeasurable amounts ☕",
+    lines_of_code: "50,000+ and counting 💻"
+};
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kosaladathapththu&label=🌟+DIGITAL+VISITORS&color=blueviolet&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/kosaladathapththu?label=🚀+FOLLOWERS&style=for-the-badge&color=blue&labelColor=000000" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/kosaladathapththu?label=⭐+GITHUB+STARS&style=for-the-badge&color=yellow&labelColor=000000" alt="Stars"/>
+</div>
+
+<div align="center">
+
+### ✨ Ready to transform ideas into reality?
+### 🚀 Let's build something extraordinary together!
+### 💫 The digital universe awaits our collaboration!
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a7d-a0f6-6d8b7d0a5c9c.gif" width="120">
+  <br><br>
+  <i>✨ "Code with passion, debug with patience, deploy with confidence!" ✨</i>
+  <br><br>
+  <b>🌟 Thanks for exploring my digital universe! Let's create something amazing together! 🌟</b>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>✨ Crafted with ❤️ by Kosala | Fueled by ☕ & 💻 | Last Updated: September 2025 ✨</sub>
 </div>
