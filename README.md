@@ -99,7 +99,7 @@ Debug Style: "Coffee-Driven Development"
 <div align="center">
 
 ### 🏨 **Hotel Management Microservices**
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
 
 </div>
 
@@ -127,7 +127,7 @@ Debug Style: "Coffee-Driven Development"
 <div align="center">
 
 ### 📦 **Smart Inventory System**
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d4-f13806a36e87.gif" width="400">
+<img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
 
 </div>
 
@@ -159,7 +159,7 @@ Debug Style: "Coffee-Driven Development"
 <div align="center">
 
 ### 🏠 **Complete Hostel Digitization**
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+<img src="https://images.unsplash.com/photo-1555854877-bab0e564b8d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
 
 </div>
 
@@ -186,7 +186,7 @@ Debug Style: "Coffee-Driven Development"
 <div align="center">
 
 ### 💵 **Enterprise Payroll Engine**
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b09-b72a-8377d14a93ab.gif" width="400">
+<img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
 
 </div>
 
@@ -204,6 +204,65 @@ Debug Style: "Coffee-Driven Development"
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### 🍕 **PizzaMania Restaurant Hub**
+<img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Restaurant Revolution:**
+- 🍽️ **Dynamic Menu Management**
+- 📱 Online Ordering System
+- 👥 Customer Relationship Management
+- 📊 Sales & Revenue Analytics
+- 🧾 Order Tracking & Status
+- 💳 Payment Gateway Integration
+- 📈 Business Intelligence Dashboard
+
+<div align="center">
+  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 🤖 **IoT & Arduino Adventures**
+<img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Hardware Meets Software:**
+- 🤖 **Arduino-based Robotics**
+- 🌡️ IoT Sensor Networks
+- 📡 Wireless Communication Systems
+- 📱 Mobile App Controllers
+- 🔋 Energy Management Systems
+- 📊 Real-time Data Visualization
+- 🏠 Smart Home Automation
+
+<div align="center">
+  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
 
