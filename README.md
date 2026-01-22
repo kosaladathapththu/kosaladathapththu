@@ -28,8 +28,10 @@
 ```yaml
 Name: "A.M. Kosala Dhaneshwara Athapaththu"
 Location: "Colombo, Sri Lanka 🇱🇰"
-Education: "Software Engineering @ NIBM"
+Education: "Software Engineering @ Coventry University"
 Experience: "3+ Years Building Solutions"
+Repositories: "21+ Public Projects"
+Community: "6 Followers | Active Collaborator"
 Specialization: 
   - Full-Stack Web Development
   - Microservices Architecture
@@ -45,7 +47,7 @@ Debug Style: "Coffee-Driven Development"
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
   
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=400&lines=💼+Software+Engineering+Student;🔥+3%2B+Years+Digital+Innovation;🌟+Microservices+Specialist;📱+Full-Stack+Expert" alt="Status" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=400&lines=💼+Software+Engineering+Student;🔥+3%2B+Years+Digital+Innovation;🌟+21%2B+Public+Repositories;📱+Full-Stack+Expert;🏆+GitHub+Achiever" alt="Status" />
   </div>
 </td>
 </tr>
@@ -119,6 +121,8 @@ Debug Style: "Coffee-Driven Development"
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+⭐ **2 Stars** | 🔀 **4 Forks**
+
 </div>
 
 </td>
@@ -178,6 +182,8 @@ Debug Style: "Coffee-Driven Development"
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+⭐ **2 Stars** | 🔀 **1 Fork**
+
 </div>
 
 </td>
@@ -185,25 +191,26 @@ Debug Style: "Coffee-Driven Development"
 
 <div align="center">
 
-### 💵 **Enterprise Payroll Engine**
-<img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+### 💵 **Library Management System**
+<img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
 
 </div>
 
-**🎯 Enterprise Features:**
-- 💼 **Automated Salary Processing**
-- ⏰ Smart Attendance Tracking
-- 📊 Advanced Report Generation
-- 🧮 Tax & Deduction Calculator
-- 📈 Performance Analytics
-- 🖥️ Native Desktop Application
-- 💾 Secure Data Management
+**🎯 Educational Features:**
+- 📚 **Comprehensive Book Cataloging**
+- 👥 Member Management System
+- 📖 Borrowing & Return Tracking
+- 🔍 Advanced Search Functionality
+- 📊 Usage Reports & Analytics
+- 💻 Desktop Application
+- 🎯 User-Friendly Interface
 
 <div align="center">
   
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+⭐ **1 Star**
 
 </div>
 
@@ -244,25 +251,26 @@ Debug Style: "Coffee-Driven Development"
 
 <div align="center">
 
-### 🤖 **IoT & Arduino Adventures**
+### 🤖 **IntelliJ Repository**
 <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
 
 </div>
 
-**🎯 Hardware Meets Software:**
-- 🤖 **Arduino-based Robotics**
-- 🌡️ IoT Sensor Networks
-- 📡 Wireless Communication Systems
-- 📱 Mobile App Controllers
-- 🔋 Energy Management Systems
-- 📊 Real-time Data Visualization
-- 🏠 Smart Home Automation
+**🎯 Development Practice:**
+- 💻 **Java Development Projects**
+- 🎓 Learning & Experimentation
+- 🔧 Code Practice Repository
+- 📚 Algorithm Implementations
+- 🚀 IntelliJ IDEA Projects
+- 🧪 Testing & Prototyping
+- 📝 Documentation & Examples
 
 <div align="center">
   
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+⭐ **1 Star**
 
 </div>
 
@@ -276,7 +284,7 @@ Debug Style: "Coffee-Driven Development"
 
 <br>
 
-## <div align="center">⚡ Current Learning Journey & 2025 Vision 🔮</div>
+## <div align="center">⚡ Current Learning Journey & 2026 Vision 🔮</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-895e-7d60ddb0d043.gif" width="250">
@@ -297,22 +305,22 @@ const currentProjects = {
   smart_pos: "AI-powered analytics", 
   mobile_apps: "React Native cross-platform",
   cloud_apps: "Docker containerization",
-  iot_projects: "Hardware + Software fusion"
+  portfolio: "21+ public repositories"
 };
 ```
 
 </td>
 <td align="center" width="33%">
 
-### 🚀 **2025 Goals**
+### 🚀 **2026 Goals**
 ```python
-mission_2025 = {
+mission_2026 = {
     "freelance_career": "Launch & Scale",
-    "cloud_deployments": "10+ Applications",
+    "cloud_deployments": "15+ Applications",
     "mobile_releases": "3 Play Store Apps",
     "open_source": "Community Contributions",
     "certifications": "AWS/Azure Certified",
-    "github_stars": "100+ Portfolio Stars"
+    "github_growth": "200+ Followers & Stars"
 }
 ```
 
@@ -368,6 +376,17 @@ skills_expanding:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kosaladathapththu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+</div>
+
+<div align="center">
+  
+**🎯 GitHub Achievements Unlocked:**
+- 🏅 **YOLO** - Merged pull request without review
+- 🦈 **Pull Shark** - Merged pull requests
+- 📦 **21 Public Repositories** - Active contributor
+- 👥 **6 Followers** - Growing community
+- ⭐ **Multiple Starred Projects** - Quality code recognition
+
 </div>
 
 <div align="center">
@@ -443,7 +462,7 @@ skills_expanding:
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=🐛+Debugging+method%3A+Rubber+duck+%2B+coffee+conversations;🎵+Peak+coding+with+Lo-fi+beats+%26+rain+sounds;🌙+Night+owl+developer+%E2%80%94+2AM+%3D+peak+productivity;🎯+Can+spot+missing+semicolons+from+orbit;🍕+Pizza+%3D+Universal+coding+fuel+of+choice;🎮+Gaming+UI%2FUX+inspires+my+design+thinking" alt="Fun Facts" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=🐛+Debugging+method%3A+Rubber+duck+%2B+coffee+conversations;🎵+Peak+coding+with+Lo-fi+beats+%26+rain+sounds;🌙+Night+owl+developer+—+2AM+%3D+peak+productivity;🎯+Can+spot+missing+semicolons+from+orbit;🍕+Pizza+%3D+Universal+coding+fuel+of+choice;🎮+Gaming+UI%2FUX+inspires+my+design+thinking" alt="Fun Facts" />
 </div>
 
 ### 🏆 **Developer Achievement Unlocked:**
@@ -453,9 +472,10 @@ skills_expanding:
 const achievements = {
     first_commit: "Started coding journey 3+ years ago 🥇",
     fastest_debug: "Production bug fixed in 5 minutes ⚡",
-    longest_streak: "180+ consecutive commit days 🌟",
+    active_repos: "21+ public repositories 📦",
     projects_delivered: "15+ full-stack applications 🎯",
-    developers_mentored: "5+ junior developers guided 🤝",
+    github_badges: "YOLO & Pull Shark achievements 🏅",
+    organization_member: "@AMKDA contributor 🤝",
     coffee_consumed: "Immeasurable amounts ☕",
     lines_of_code: "50,000+ and counting 💻"
 };
@@ -496,5 +516,4 @@ const achievements = {
 </div>
 
 <div align="center">
-  <sub>✨ Crafted with ❤️ by Kosala | Fueled by ☕ & 💻 | Last Updated: September 2025 ✨</sub>
-</div>
+  <sub>✨ Crafted with ❤️ by Kosala | Fueled by ☕ & 💻 | Last Updated:
