@@ -1,874 +1,519 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kosala Athapaththu — GitHub Profile</title>
-<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Syne:wght@400;700;800;900&display=swap" rel="stylesheet">
-<style>
-  :root {
-    --bg: #050810;
-    --surface: #0b1120;
-    --surface2: #0f1929;
-    --border: #1a2a45;
-    --accent: #00d4ff;
-    --accent2: #7b5ea7;
-    --accent3: #00ffa3;
-    --text: #c8d8f0;
-    --text-dim: #5a7090;
-    --text-bright: #eef4ff;
-    --glow: 0 0 20px rgba(0,212,255,0.3);
-    --glow2: 0 0 20px rgba(0,255,163,0.2);
-  }
+# <div align="center">🚀 Welcome to My Digital Universe! 🌌</div>
 
-  * { margin: 0; padding: 0; box-sizing: border-box; }
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kosala%20Dhaneshwara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&descAlign=60&descAlignY=52&desc=Full-Stack%20Developer%20%7C%20Tech%20Innovator%20%7C%20🇱🇰" width="100%"/>
+</div>
 
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'Space Mono', monospace;
-    min-height: 100vh;
-    overflow-x: hidden;
-    cursor: none;
-  }
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=👋+Hello+World!+I'm+Kosala;🎯+Full-Stack+Developer+%7C+Innovator;💡+Transforming+Ideas+→+Reality;🌟+Sri+Lanka+🇱🇰+→+Global+Impact;🚀+Building+Tomorrow's+Solutions;☕+Powered+by+Coffee+%26+Code" alt="Typing SVG" />
+</div>
 
-  /* Custom cursor */
-  .cursor {
-    width: 10px; height: 10px;
-    background: var(--accent);
-    border-radius: 50%;
-    position: fixed;
-    top: 0; left: 0;
-    pointer-events: none;
-    z-index: 9999;
-    mix-blend-mode: screen;
-    transition: transform 0.1s;
-  }
-  .cursor-ring {
-    width: 36px; height: 36px;
-    border: 1px solid rgba(0,212,255,0.4);
-    border-radius: 50%;
-    position: fixed;
-    top: 0; left: 0;
-    pointer-events: none;
-    z-index: 9998;
-    transition: all 0.12s ease;
-  }
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
 
-  /* Grid background */
-  body::before {
-    content: '';
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(rgba(0,212,255,0.03) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(0,212,255,0.03) 1px, transparent 1px);
-    background-size: 48px 48px;
-    pointer-events: none;
-    z-index: 0;
-  }
+<br>
 
-  /* Ambient orbs */
-  .orb {
-    position: fixed;
-    border-radius: 50%;
-    filter: blur(100px);
-    pointer-events: none;
-    z-index: 0;
-  }
-  .orb1 { width: 500px; height: 500px; background: rgba(0,212,255,0.06); top: -100px; left: -100px; animation: drift1 18s ease-in-out infinite; }
-  .orb2 { width: 400px; height: 400px; background: rgba(123,94,167,0.08); bottom: 100px; right: -50px; animation: drift2 22s ease-in-out infinite; }
-  .orb3 { width: 300px; height: 300px; background: rgba(0,255,163,0.05); top: 50%; left: 50%; animation: drift3 15s ease-in-out infinite; }
+## <div align="center">🎭 Digital Architect & Code Craftsman 🏗️</div>
 
-  @keyframes drift1 { 0%,100%{transform:translate(0,0)} 50%{transform:translate(60px,40px)} }
-  @keyframes drift2 { 0%,100%{transform:translate(0,0)} 50%{transform:translate(-40px,-60px)} }
-  @keyframes drift3 { 0%,100%{transform:translate(-50%,-50%) scale(1)} 50%{transform:translate(-50%,-50%) scale(1.3)} }
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-  .wrapper {
-    position: relative;
-    z-index: 1;
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 40px 24px 80px;
-  }
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-  /* ── HEADER ── */
-  header {
-    display: grid;
-    grid-template-columns: auto 1fr;
-    gap: 36px;
-    align-items: center;
-    padding: 48px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-top: 2px solid var(--accent);
-    margin-bottom: 2px;
-    position: relative;
-    overflow: hidden;
-    animation: fadeUp 0.8s ease both;
-  }
-  header::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: linear-gradient(135deg, rgba(0,212,255,0.04) 0%, transparent 60%);
-    pointer-events: none;
-  }
+### 🧑‍💻 **Developer Profile**
+```yaml
+Name: "A.M. Kosala Dhaneshwara Athapaththu"
+Location: "Colombo, Sri Lanka 🇱🇰"
+Education: "Software Engineering @ Coventry University"
+Experience: "3+ Years Building Solutions"
+Repositories: "21+ Public Projects"
+Community: "6 Followers | Active Collaborator"
+Specialization: 
+  - Full-Stack Web Development
+  - Microservices Architecture
+  - System Design & Implementation
+Current Focus: "React + Spring Boot + Cloud"
+Philosophy: "Clean Code + Innovation + UX"
+Coffee Level: "Maximum ☕☕☕"
+Debug Style: "Coffee-Driven Development"
+```
 
-  .avatar-wrap {
-    position: relative;
-    width: 100px; height: 100px;
-    flex-shrink: 0;
-  }
-  .avatar-wrap::before {
-    content: '';
-    position: absolute;
-    inset: -4px;
-    border-radius: 50%;
-    background: conic-gradient(var(--accent), var(--accent2), var(--accent3), var(--accent));
-    animation: spin 4s linear infinite;
-  }
-  .avatar-wrap::after {
-    content: '';
-    position: absolute;
-    inset: -2px;
-    border-radius: 50%;
-    background: var(--surface);
-  }
-  @keyframes spin { to { transform: rotate(360deg); } }
-
-  .avatar {
-    position: relative;
-    z-index: 1;
-    width: 100px; height: 100px;
-    border-radius: 50%;
-    background: linear-gradient(135deg, var(--accent2), var(--accent));
-    display: flex; align-items: center; justify-content: center;
-    font-family: 'Syne', sans-serif;
-    font-size: 36px;
-    font-weight: 900;
-    color: var(--bg);
-    letter-spacing: -1px;
-  }
-
-  .header-info h1 {
-    font-family: 'Syne', sans-serif;
-    font-size: clamp(24px, 4vw, 40px);
-    font-weight: 900;
-    color: var(--text-bright);
-    letter-spacing: -1px;
-    line-height: 1;
-    margin-bottom: 8px;
-  }
-  .header-info h1 span { color: var(--accent); }
-
-  .tagline {
-    font-size: 11px;
-    color: var(--text-dim);
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    margin-bottom: 16px;
-  }
-
-  .badge-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
-  .badge {
-    padding: 4px 12px;
-    border: 1px solid var(--border);
-    font-size: 10px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    color: var(--text-dim);
-    background: rgba(255,255,255,0.02);
-    transition: all 0.2s;
-  }
-  .badge:hover { border-color: var(--accent); color: var(--accent); background: rgba(0,212,255,0.05); }
-  .badge.accent { border-color: rgba(0,212,255,0.4); color: var(--accent); }
-  .badge.green { border-color: rgba(0,255,163,0.4); color: var(--accent3); }
-
-  /* ── TYPING ANIMATION ── */
-  .typing-bar {
-    background: var(--surface2);
-    border: 1px solid var(--border);
-    border-left: 3px solid var(--accent);
-    padding: 16px 24px;
-    margin-bottom: 2px;
-    font-size: 13px;
-    animation: fadeUp 0.8s 0.2s ease both;
-    min-height: 52px;
-  }
-  .typing-bar .prefix { color: var(--accent); }
-  .cursor-blink { display: inline-block; width: 2px; height: 14px; background: var(--accent); margin-left: 2px; vertical-align: middle; animation: blink 1s step-end infinite; }
-  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
-
-  /* ── GRID ── */
-  .grid3 {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2px;
-    margin-bottom: 2px;
-  }
-  .grid2 {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2px;
-    margin-bottom: 2px;
-  }
-
-  .card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    padding: 28px;
-    position: relative;
-    overflow: hidden;
-    transition: border-color 0.3s, transform 0.3s;
-    animation: fadeUp 0.8s ease both;
-  }
-  .card:hover { border-color: rgba(0,212,255,0.3); transform: translateY(-2px); }
-  .card::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 1px;
-    background: linear-gradient(90deg, transparent, rgba(0,212,255,0.4), transparent);
-    opacity: 0;
-    transition: opacity 0.3s;
-  }
-  .card:hover::before { opacity: 1; }
-
-  .card-label {
-    font-size: 9px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    color: var(--text-dim);
-    margin-bottom: 16px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .card-label::after {
-    content: '';
-    flex: 1;
-    height: 1px;
-    background: var(--border);
-  }
-
-  /* STAT CARDS */
-  .stat-num {
-    font-family: 'Syne', sans-serif;
-    font-size: 48px;
-    font-weight: 900;
-    color: var(--text-bright);
-    line-height: 1;
-    letter-spacing: -2px;
-  }
-  .stat-num span { color: var(--accent); font-size: 24px; }
-  .stat-label { font-size: 10px; color: var(--text-dim); letter-spacing: 2px; text-transform: uppercase; margin-top: 8px; }
-
-  /* TECH STACK */
-  .tech-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-    gap: 10px;
-  }
-  .tech-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 8px;
-    padding: 14px 8px;
-    border: 1px solid var(--border);
-    background: rgba(255,255,255,0.01);
-    transition: all 0.2s;
-    cursor: default;
-  }
-  .tech-item:hover {
-    border-color: rgba(0,212,255,0.4);
-    background: rgba(0,212,255,0.04);
-    transform: translateY(-3px);
-    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
-  }
-  .tech-icon { font-size: 24px; filter: grayscale(0.3); }
-  .tech-name { font-size: 9px; letter-spacing: 1px; color: var(--text-dim); text-transform: uppercase; }
-
-  /* PROJECTS */
-  .project-card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    padding: 24px;
-    position: relative;
-    overflow: hidden;
-    transition: all 0.3s;
-    margin-bottom: 2px;
-    animation: fadeUp 0.8s ease both;
-  }
-  .project-card:hover { border-color: rgba(0,212,255,0.3); background: rgba(11,17,32,0.95); }
-  .project-card:hover .project-glow { opacity: 1; }
-  .project-glow {
-    position: absolute;
-    top: 0; right: 0;
-    width: 200px; height: 200px;
-    background: radial-gradient(circle at top right, rgba(0,212,255,0.06), transparent 70%);
-    opacity: 0;
-    transition: opacity 0.3s;
-  }
-  .project-num {
-    font-family: 'Syne', sans-serif;
-    font-size: 64px;
-    font-weight: 900;
-    color: rgba(0,212,255,0.07);
-    position: absolute;
-    top: 8px; right: 20px;
-    line-height: 1;
-    letter-spacing: -3px;
-  }
-  .project-header {
-    display: flex;
-    align-items: flex-start;
-    gap: 16px;
-    margin-bottom: 12px;
-  }
-  .project-icon { font-size: 28px; }
-  .project-name {
-    font-family: 'Syne', sans-serif;
-    font-size: 16px;
-    font-weight: 800;
-    color: var(--text-bright);
-    line-height: 1.2;
-  }
-  .project-sub { font-size: 10px; color: var(--accent); letter-spacing: 2px; text-transform: uppercase; margin-top: 2px; }
-  .project-desc { font-size: 12px; color: var(--text-dim); line-height: 1.8; margin-bottom: 14px; }
-  .tag-row { display: flex; flex-wrap: wrap; gap: 6px; }
-  .tag {
-    padding: 3px 10px;
-    font-size: 9px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    border: 1px solid var(--border);
-    color: var(--text-dim);
-  }
-
-  /* CONTRIBUTION GRID */
-  .contrib-grid {
-    display: grid;
-    grid-template-columns: repeat(52, 1fr);
-    gap: 2px;
-  }
-  .contrib-cell {
-    aspect-ratio: 1;
-    border-radius: 1px;
-    background: var(--surface2);
-  }
-
-  /* BAR CHART */
-  .bar-chart { display: flex; align-items: flex-end; gap: 4px; height: 80px; }
-  .bar-wrap { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 4px; }
-  .bar {
-    width: 100%;
-    background: var(--accent);
-    border-radius: 2px 2px 0 0;
-    transition: all 0.3s;
-    position: relative;
-    overflow: hidden;
-  }
-  .bar::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: linear-gradient(to top, transparent, rgba(255,255,255,0.15));
-  }
-  .bar:hover { filter: brightness(1.3); }
-  .bar-month { font-size: 8px; color: var(--text-dim); letter-spacing: 1px; }
-
-  /* LANG BARS */
-  .lang-item { margin-bottom: 14px; }
-  .lang-row { display: flex; justify-content: space-between; margin-bottom: 6px; }
-  .lang-name { font-size: 11px; color: var(--text); }
-  .lang-pct { font-size: 11px; color: var(--text-dim); font-family: 'Space Mono', monospace; }
-  .lang-track { height: 3px; background: var(--surface2); border-radius: 2px; overflow: hidden; }
-  .lang-fill { height: 100%; border-radius: 2px; }
-
-  /* SOCIAL LINKS */
-  .social-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
-  .social-link {
-    display: flex; align-items: center; gap: 10px;
-    padding: 12px 16px;
-    border: 1px solid var(--border);
-    text-decoration: none;
-    color: var(--text-dim);
-    font-size: 11px;
-    letter-spacing: 1px;
-    transition: all 0.2s;
-  }
-  .social-link:hover { border-color: rgba(0,212,255,0.5); color: var(--accent); background: rgba(0,212,255,0.04); }
-  .social-icon { font-size: 18px; }
-
-  /* ACTIVITY LOG */
-  .activity-item {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding: 12px 0;
-    border-bottom: 1px solid rgba(26,42,69,0.5);
-    font-size: 11px;
-  }
-  .activity-item:last-child { border-bottom: none; }
-  .activity-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); flex-shrink: 0; }
-  .activity-dot.green { background: var(--accent3); }
-  .activity-dot.purple { background: var(--accent2); }
-  .activity-time { color: var(--text-dim); margin-left: auto; font-size: 10px; }
-
-  /* STATUS INDICATOR */
-  .status-dot {
-    width: 8px; height: 8px;
-    border-radius: 50%;
-    background: var(--accent3);
-    display: inline-block;
-    margin-right: 8px;
-    box-shadow: 0 0 8px var(--accent3);
-    animation: pulse 2s infinite;
-  }
-  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
-
-  /* SNAKE ANIMATION */
-  .snake-track {
-    position: relative;
-    height: 40px;
-    overflow: hidden;
-    border: 1px solid var(--border);
-    background: var(--surface2);
-    margin-top: 8px;
-  }
-  .snake {
-    position: absolute;
-    height: 8px;
-    background: linear-gradient(90deg, transparent, var(--accent3), var(--accent));
-    border-radius: 4px;
-    top: 50%;
-    transform: translateY(-50%);
-    animation: snakeMove 4s ease-in-out infinite;
-    box-shadow: 0 0 12px var(--accent3);
-  }
-  .snake-head {
-    position: absolute;
-    right: 0;
-    width: 10px; height: 10px;
-    background: var(--accent3);
-    border-radius: 50%;
-    top: 50%;
-    transform: translateY(-50%);
-    box-shadow: 0 0 16px var(--accent3);
-  }
-  @keyframes snakeMove {
-    0% { left: -30%; width: 30%; }
-    50% { left: 35%; width: 30%; }
-    100% { left: 100%; width: 30%; }
-  }
-
-  /* FOOTER */
-  footer {
-    text-align: center;
-    padding: 40px;
-    font-size: 10px;
-    color: var(--text-dim);
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    border-top: 1px solid var(--border);
-    margin-top: 2px;
-  }
-
-  /* ANIMATIONS */
-  @keyframes fadeUp {
-    from { opacity: 0; transform: translateY(24px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-
-  .card:nth-child(1) { animation-delay: 0.1s; }
-  .card:nth-child(2) { animation-delay: 0.2s; }
-  .card:nth-child(3) { animation-delay: 0.3s; }
-  .project-card:nth-child(1) { animation-delay: 0.15s; }
-  .project-card:nth-child(2) { animation-delay: 0.25s; }
-  .project-card:nth-child(3) { animation-delay: 0.35s; }
-  .project-card:nth-child(4) { animation-delay: 0.45s; }
-
-  /* RESPONSIVE */
-  @media (max-width: 700px) {
-    header { grid-template-columns: 1fr; text-align: center; }
-    .badge-row { justify-content: center; }
-    .grid3 { grid-template-columns: 1fr; }
-    .grid2 { grid-template-columns: 1fr; }
-    .social-grid { grid-template-columns: 1fr; }
-  }
-
-  /* SCANLINE EFFECT */
-  body::after {
-    content: '';
-    position: fixed;
-    inset: 0;
-    background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.03) 2px, rgba(0,0,0,0.03) 4px);
-    pointer-events: none;
-    z-index: 0;
-  }
-
-  /* TOOLTIP */
-  [data-tip] { position: relative; }
-  [data-tip]:hover::after {
-    content: attr(data-tip);
-    position: absolute;
-    bottom: 110%;
-    left: 50%;
-    transform: translateX(-50%);
-    background: var(--surface);
-    border: 1px solid var(--border);
-    padding: 4px 10px;
-    font-size: 10px;
-    white-space: nowrap;
-    color: var(--text);
-    z-index: 100;
-  }
-</style>
-</head>
-<body>
-
-<div class="cursor" id="cur"></div>
-<div class="cursor-ring" id="ring"></div>
-
-<div class="orb orb1"></div>
-<div class="orb orb2"></div>
-<div class="orb orb3"></div>
-
-<div class="wrapper">
-
-  <!-- HEADER -->
-  <header>
-    <div class="avatar-wrap">
-      <div class="avatar">KA</div>
-    </div>
-    <div class="header-info">
-      <div class="tagline">Software Engineering · NIBM · Colombo</div>
-      <h1>Kosala <span>Athapaththu</span></h1>
-      <div class="badge-row">
-        <span class="badge accent">⚡ Available for work</span>
-        <span class="badge green"><span class="status-dot"></span>Open to collab</span>
-        <span class="badge">Full-Stack</span>
-        <span class="badge">Backend</span>
-        <span class="badge">Android</span>
-        <span class="badge">IoT</span>
-      </div>
-    </div>
-  </header>
-
-  <!-- TYPING BAR -->
-  <div class="typing-bar">
-    <span class="prefix">$ </span>
-    <span id="typed"></span><span class="cursor-blink"></span>
+</td>
+<td align="center" width="50%">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=400&lines=💼+Software+Engineering+Student;🔥+3%2B+Years+Digital+Innovation;🌟+21%2B+Public+Repositories;📱+Full-Stack+Expert;🏆+GitHub+Achiever" alt="Status" />
   </div>
+</td>
+</tr>
+</table>
 
-  <!-- STAT CARDS -->
-  <div class="grid3">
-    <div class="card">
-      <div class="card-label">Repositories</div>
-      <div class="stat-num" id="repoCount">0<span>+</span></div>
-      <div class="stat-label">Public Projects</div>
-    </div>
-    <div class="card">
-      <div class="card-label">Contributions</div>
-      <div class="stat-num" id="contribCount">0<span>+</span></div>
-      <div class="stat-label">This Year</div>
-    </div>
-    <div class="card">
-      <div class="card-label">Streak</div>
-      <div class="stat-num" id="streakCount">0<span>d</span></div>
-      <div class="stat-label">Longest Streak</div>
-    </div>
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+</div>
 
-  <!-- TECH STACK + LANGS -->
-  <div class="grid2">
-    <div class="card" style="animation-delay:0.2s">
-      <div class="card-label">Tech Stack</div>
-      <div class="tech-grid">
-        <div class="tech-item" data-tip="Java"><div class="tech-icon">☕</div><div class="tech-name">Java</div></div>
-        <div class="tech-item" data-tip="Spring Boot"><div class="tech-icon">🌱</div><div class="tech-name">Spring</div></div>
-        <div class="tech-item" data-tip="React"><div class="tech-icon">⚛️</div><div class="tech-name">React</div></div>
-        <div class="tech-item" data-tip="PHP"><div class="tech-icon">🐘</div><div class="tech-name">PHP</div></div>
-        <div class="tech-item" data-tip="JavaScript"><div class="tech-icon">🟨</div><div class="tech-name">JS</div></div>
-        <div class="tech-item" data-tip="MySQL"><div class="tech-icon">🗄️</div><div class="tech-name">MySQL</div></div>
-        <div class="tech-item" data-tip="MongoDB"><div class="tech-icon">🍃</div><div class="tech-name">Mongo</div></div>
-        <div class="tech-item" data-tip="Android"><div class="tech-icon">🤖</div><div class="tech-name">Android</div></div>
-        <div class="tech-item" data-tip="Arduino"><div class="tech-icon">⚡</div><div class="tech-name">Arduino</div></div>
-        <div class="tech-item" data-tip="Python"><div class="tech-icon">🐍</div><div class="tech-name">Python</div></div>
-        <div class="tech-item" data-tip="Git"><div class="tech-icon">🔀</div><div class="tech-name">Git</div></div>
-        <div class="tech-item" data-tip="Microservices"><div class="tech-icon">🔲</div><div class="tech-name">Micro</div></div>
-      </div>
-    </div>
+<br>
 
-    <div class="card" style="animation-delay:0.3s">
-      <div class="card-label">Top Languages</div>
-      <div id="langs">
-        <div class="lang-item">
-          <div class="lang-row"><span class="lang-name">Java</span><span class="lang-pct">42%</span></div>
-          <div class="lang-track"><div class="lang-fill" style="width:42%;background:linear-gradient(90deg,#f89820,#e76c00)"></div></div>
-        </div>
-        <div class="lang-item">
-          <div class="lang-row"><span class="lang-name">JavaScript</span><span class="lang-pct">22%</span></div>
-          <div class="lang-track"><div class="lang-fill" style="width:22%;background:linear-gradient(90deg,#f7df1e,#e0b800)"></div></div>
-        </div>
-        <div class="lang-item">
-          <div class="lang-row"><span class="lang-name">PHP</span><span class="lang-pct">18%</span></div>
-          <div class="lang-track"><div class="lang-fill" style="width:18%;background:linear-gradient(90deg,#7a86b8,#4f5b93)"></div></div>
-        </div>
-        <div class="lang-item">
-          <div class="lang-row"><span class="lang-name">Python</span><span class="lang-pct">10%</span></div>
-          <div class="lang-track"><div class="lang-fill" style="width:10%;background:linear-gradient(90deg,#3776ab,#ffd343)"></div></div>
-        </div>
-        <div class="lang-item">
-          <div class="lang-row"><span class="lang-name">C++ / Arduino</span><span class="lang-pct">8%</span></div>
-          <div class="lang-track"><div class="lang-fill" style="width:8%;background:linear-gradient(90deg,#00599c,#004482)"></div></div>
-        </div>
-      </div>
+## <div align="center">🎯 Tech Arsenal & Superpowers 🛡️</div>
 
-      <div style="margin-top:28px;">
-        <div class="card-label">Monthly Activity</div>
-        <div class="bar-chart" id="barChart">
-          <div class="bar-wrap"><div class="bar" style="height:35%"></div><div class="bar-month">M</div></div>
-          <div class="bar-wrap"><div class="bar" style="height:55%"></div><div class="bar-month">A</div></div>
-          <div class="bar-wrap"><div class="bar" style="height:40%"></div><div class="bar-month">M</div></div>
-          <div class="bar-wrap"><div class="bar" style="height:70%"></div><div class="bar-month">J</div></div>
-          <div class="bar-wrap"><div class="bar" style="height:45%"></div><div class="bar-month">J</div></div>
-          <div class="bar-wrap"><div class="bar" style="height:80%"></div><div class="bar-month">A</div></div>
-          <div class="bar-wrap"><div class="bar" style="height:60%"></div><div class="bar-month">S</div></div>
-          <div class="bar-wrap"><div class="bar" style="height:90%"></div><div class="bar-month">O</div></div>
-          <div class="bar-wrap"><div class="bar" style="height:75%"></div><div class="bar-month">N</div></div>
-          <div class="bar-wrap"><div class="bar" style="height:100%;background:var(--accent3)"></div><div class="bar-month">D</div></div>
-          <div class="bar-wrap"><div class="bar" style="height:65%"></div><div class="bar-month">J</div></div>
-          <div class="bar-wrap"><div class="bar" style="height:85%"></div><div class="bar-month">F</div></div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c7a.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
 
-  <!-- PROJECTS -->
-  <div style="margin-bottom:2px;">
-    <div class="project-card">
-      <div class="project-glow"></div>
-      <div class="project-num">01</div>
-      <div class="project-header">
-        <div class="project-icon">🏨</div>
-        <div>
-          <div class="project-name">Hotel Management System</div>
-          <div class="project-sub">Microservices · Enterprise</div>
-        </div>
-      </div>
-      <div class="project-desc">
-        Distributed microservices architecture with dedicated UI service. Handles room booking, billing, guest management, and reporting across independent scalable services.
-      </div>
-      <div class="tag-row">
-        <span class="tag">Spring Boot</span><span class="tag">React</span><span class="tag">MySQL</span><span class="tag">Microservices</span><span class="tag">REST API</span>
-      </div>
-    </div>
+<br>
 
-    <div class="project-card">
-      <div class="project-glow"></div>
-      <div class="project-num">02</div>
-      <div class="project-header">
-        <div class="project-icon">🏠</div>
-        <div>
-          <div class="project-name">Hostel Management System</div>
-          <div class="project-sub">Full-Stack · Admin Portal</div>
-        </div>
-      </div>
-      <div class="project-desc">
-        Comprehensive matron/admin workflows with inventory tracking, payroll processing, room allocation, and detailed reporting modules.
-      </div>
-      <div class="tag-row">
-        <span class="tag">PHP</span><span class="tag">MySQL</span><span class="tag">XAMPP</span><span class="tag">Bootstrap</span>
-      </div>
-    </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,cs,dotnet,php,js,html,css&perline=10&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github,docker,postman,figma,androidstudio,vscode&perline=10&theme=dark" />
+</div>
 
-    <div class="project-card">
-      <div class="project-glow"></div>
-      <div class="project-num">03</div>
-      <div class="project-header">
-        <div class="project-icon">🤖</div>
-        <div>
-          <div class="project-name">River Trash Collector Robot</div>
-          <div class="project-sub">IoT · Hardware · Robotics</div>
-        </div>
-      </div>
-      <div class="project-desc">
-        Autonomous river cleanup robot with ultrasonic sensors, servo control, LCD status display, and real-time battery monitoring for field deployment.
-      </div>
-      <div class="tag-row">
-        <span class="tag">Arduino</span><span class="tag">C++</span><span class="tag">IoT</span><span class="tag">Sensors</span><span class="tag">Servo</span>
-      </div>
-    </div>
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=🚀%20Tech%20Mastery%20Levels&fontSize=20&bg=0,20,40&badge=58a6ff&border=30363d&titleColor=00d4ff&line1=Java,Java,90;&line2=Spring%20Boot,Spring,85;&line3=React.js,React,82;&line4=MySQL,MySQL,88;&line5=JavaScript,JavaScript,78;&line6=C%23,C%23,75;&line7=PHP,PHP,72;&line8=MongoDB,MongoDB,68;" alt="Tech Stack" />
+</div>
 
-    <div class="project-card">
-      <div class="project-glow"></div>
-      <div class="project-num">04</div>
-      <div class="project-header">
-        <div class="project-icon">🧠</div>
-        <div>
-          <div class="project-name">Fraud Detection ML System</div>
-          <div class="project-sub">Machine Learning · Data Science</div>
-        </div>
-      </div>
-      <div class="project-desc">
-        End-to-end ML pipeline for fraud detection with SMOTE oversampling, feature engineering, preprocessing, and comprehensive model evaluation.
-      </div>
-      <div class="tag-row">
-        <span class="tag">Python</span><span class="tag">Scikit-learn</span><span class="tag">SMOTE</span><span class="tag">Pandas</span>
-      </div>
-    </div>
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+</div>
 
-  <!-- CONTRIBUTION + ACTIVITY -->
-  <div class="grid2">
-    <div class="card" style="animation-delay:0.35s">
-      <div class="card-label">Contribution Graph</div>
-      <div class="contrib-grid" id="contribGrid"></div>
-      <div class="snake-track" style="margin-top:12px;">
-        <div class="snake"><div class="snake-head"></div></div>
-      </div>
-      <div style="font-size:10px;color:var(--text-dim);margin-top:8px;letter-spacing:1px;">▲ Contribution snake (live on GitHub)</div>
-    </div>
+<br>
 
-    <div class="card" style="animation-delay:0.45s">
-      <div class="card-label">Recent Activity</div>
-      <div id="activityLog">
-        <div class="activity-item">
-          <div class="activity-dot"></div>
-          <div>Pushed to <strong>hotel-microservices</strong> — feat: booking service</div>
-          <div class="activity-time">2h ago</div>
-        </div>
-        <div class="activity-item">
-          <div class="activity-dot green"></div>
-          <div>Opened PR in <strong>hostel-mgmt</strong> — fix payroll calc</div>
-          <div class="activity-time">1d ago</div>
-        </div>
-        <div class="activity-item">
-          <div class="activity-dot purple"></div>
-          <div>Created repo <strong>fraud-detection-ml</strong></div>
-          <div class="activity-time">3d ago</div>
-        </div>
-        <div class="activity-item">
-          <div class="activity-dot"></div>
-          <div>Starred <strong>spring-boot-examples</strong></div>
-          <div class="activity-time">4d ago</div>
-        </div>
-        <div class="activity-item">
-          <div class="activity-dot green"></div>
-          <div>Merged PR — river-robot sensor calibration</div>
-          <div class="activity-time">6d ago</div>
-        </div>
-        <div class="activity-item">
-          <div class="activity-dot"></div>
-          <div>Commented on issue <strong>#14</strong> — auth service</div>
-          <div class="activity-time">1w ago</div>
-        </div>
-      </div>
-    </div>
-  </div>
+## <div align="center">🚀 Epic Project Showcase 🎪</div>
 
-  <!-- SOCIAL + CONTACT -->
-  <div class="card" style="animation-delay:0.5s;margin-bottom:2px;">
-    <div class="card-label">Links & Contact</div>
-    <div class="social-grid">
-      <a href="https://www.linkedin.com/in/kosala-d-athapaththu-a453b9248/" target="_blank" class="social-link">
-        <span class="social-icon">💼</span>
-        <span>LinkedIn · Kosala D Athapaththu</span>
-      </a>
-      <a href="https://x.com/KAthapathtu" target="_blank" class="social-link">
-        <span class="social-icon">✖</span>
-        <span>Twitter · @KAthapathtu</span>
-      </a>
-      <a href="mailto:kosalaathapaththu1234@gmail.com" class="social-link">
-        <span class="social-icon">✉️</span>
-        <span>kosalaathapaththu1234@gmail.com</span>
-      </a>
-      <a href="https://github.com/kosaladathapththu" target="_blank" class="social-link">
-        <span class="social-icon">⌥</span>
-        <span>GitHub · kosaladathapththu</span>
-      </a>
-    </div>
-  </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120">
+</div>
 
-  <footer>
-    Built with ♥ · Kosala Daneshwara Athapaththu · Colombo, Sri Lanka · 2025
-  </footer>
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### 🏨 **Hotel Management Microservices**
+<img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
 
 </div>
 
-<script>
-  // Custom cursor
-  const cur = document.getElementById('cur');
-  const ring = document.getElementById('ring');
-  let mx = 0, my = 0, rx = 0, ry = 0;
-  document.addEventListener('mousemove', e => { mx = e.clientX; my = e.clientY; cur.style.left = mx-5+'px'; cur.style.top = my-5+'px'; });
-  function animRing() {
-    rx += (mx - rx) * 0.12;
-    ry += (my - ry) * 0.12;
-    ring.style.left = rx-18+'px';
-    ring.style.top = ry-18+'px';
-    requestAnimationFrame(animRing);
-  }
-  animRing();
+**🎯 Architecture Highlights:**
+- 🧠 **6 Independent Microservices**
+- 🌐 Spring Boot Backend + React Frontend
+- 🏨 Smart Room Management & Booking
+- 💼 Integrated Employee Payroll
+- 📦 Real-time Inventory Management
+- 📊 Live Admin Dashboard
+- 🔄 RESTful API Communication
 
-  // Typing animation
-  const lines = [
-    "echo 'Welcome to my GitHub profile!'",
-    "java -jar hotel-microservices.jar --port=8080",
-    "git commit -m 'feat: add fraud detection pipeline'",
-    "arduino-cli compile --fqbn arduino:avr:uno river-robot/",
-    "npx create-react-app my-next-big-thing",
-  ];
-  let li = 0, ci = 0, deleting = false;
-  const typed = document.getElementById('typed');
-  function type() {
-    const cur = lines[li];
-    if (!deleting) {
-      typed.textContent = cur.slice(0, ci++);
-      if (ci > cur.length) { deleting = true; setTimeout(type, 2000); return; }
-    } else {
-      typed.textContent = cur.slice(0, ci--);
-      if (ci < 0) { deleting = false; li = (li+1)%lines.length; ci = 0; setTimeout(type, 400); return; }
-    }
-    setTimeout(type, deleting ? 30 : 60);
-  }
-  setTimeout(type, 500);
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-  // Animated counters
-  function animCount(id, target, suffix) {
-    const el = document.getElementById(id);
-    let n = 0;
-    const step = Math.ceil(target / 60);
-    const iv = setInterval(() => {
-      n = Math.min(n+step, target);
-      el.innerHTML = n + '<span>' + suffix + '</span>';
-      if (n >= target) clearInterval(iv);
-    }, 24);
-  }
-  setTimeout(() => {
-    animCount('repoCount', 12, '+');
-    animCount('contribCount', 247, '+');
-    animCount('streakCount', 21, 'd');
-  }, 400);
+⭐ **2 Stars** | 🔀 **4 Forks**
 
-  // Contribution grid
-  const grid = document.getElementById('contribGrid');
-  const colors = ['#0b1120','#0e3a2a','#1a6b47','#21a366','#00ffa3'];
-  for (let i = 0; i < 52*7; i++) {
-    const c = document.createElement('div');
-    c.className = 'contrib-cell';
-    const level = Math.random() < 0.6 ? 0 : Math.floor(Math.random()*4)+1;
-    c.style.background = colors[level];
-    if (level > 0) c.style.boxShadow = level > 2 ? '0 0 4px rgba(0,255,163,0.3)' : 'none';
-    grid.appendChild(c);
-  }
-</script>
-</body>
-</html>
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 📦 **Smart Inventory System**
+<img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Intelligence Features:**
+- ⚡ **Real-time CRUD Operations**
+- 🔍 Advanced Search & Filtering
+- 📊 Live Stock Monitoring
+- 📈 Automated Report Generation
+- 🎨 Material-UI Design System
+- 🔔 Smart Low Stock Alerts
+- 📱 Mobile-First Architecture
+
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### 🏠 **Complete Hostel Digitization**
+<img src="https://images.unsplash.com/photo-1555854877-bab0e564b8d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Digital Transformation:**
+- 🏫 **End-to-End Hostel Management**
+- 📅 Intelligent Room Allocation
+- 💰 Automated Billing & Payments
+- 📊 Comprehensive Analytics
+- 👩‍💼 Staff Management Portal
+- 📱 Student Mobile Interface
+- 🔐 Role-Based Access Control
+
+<div align="center">
+  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+⭐ **2 Stars** | 🔀 **1 Fork**
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 💵 **Library Management System**
+<img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Educational Features:**
+- 📚 **Comprehensive Book Cataloging**
+- 👥 Member Management System
+- 📖 Borrowing & Return Tracking
+- 🔍 Advanced Search Functionality
+- 📊 Usage Reports & Analytics
+- 💻 Desktop Application
+- 🎯 User-Friendly Interface
+
+<div align="center">
+  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+⭐ **1 Star**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### 🍕 **PizzaMania Restaurant Hub**
+<img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Restaurant Revolution:**
+- 🍽️ **Dynamic Menu Management**
+- 📱 Online Ordering System
+- 👥 Customer Relationship Management
+- 📊 Sales & Revenue Analytics
+- 🧾 Order Tracking & Status
+- 💳 Payment Gateway Integration
+- 📈 Business Intelligence Dashboard
+
+<div align="center">
+  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 🤖 **IntelliJ Repository**
+<img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="400" height="200" style="object-fit: cover; border-radius: 10px;">
+
+</div>
+
+**🎯 Development Practice:**
+- 💻 **Java Development Projects**
+- 🎓 Learning & Experimentation
+- 🔧 Code Practice Repository
+- 📚 Algorithm Implementations
+- 🚀 IntelliJ IDEA Projects
+- 🧪 Testing & Prototyping
+- 📝 Documentation & Examples
+
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+⭐ **1 Star**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+</div>
+
+<br>
+
+## <div align="center">⚡ Current Learning Journey & 2026 Vision 🔮</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-895e-7d60ddb0d043.gif" width="250">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=🌱+Mastering+React+%2B+MongoDB+Integration;📱+Deep-diving+into+Android+Development;☁️+Exploring+AWS+%26+Azure+Cloud+Platforms;🤖+Building+AI-Powered+Applications;🚀+Advancing+Microservices+Architecture" alt="Learning Journey" />
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🎯 **Current Focus**
+```javascript
+const currentProjects = {
+  hotel_management: "Real-time notifications",
+  smart_pos: "AI-powered analytics", 
+  mobile_apps: "React Native cross-platform",
+  cloud_apps: "Docker containerization",
+  portfolio: "21+ public repositories"
+};
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 **2026 Goals**
+```python
+mission_2026 = {
+    "freelance_career": "Launch & Scale",
+    "cloud_deployments": "15+ Applications",
+    "mobile_releases": "3 Play Store Apps",
+    "open_source": "Community Contributions",
+    "certifications": "AWS/Azure Certified",
+    "github_growth": "200+ Followers & Stars"
+}
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🌟 **Next Level**
+```yaml
+professional_path:
+  current: "University Excellence"
+  next: "Industry Professional" 
+  ultimate: "Tech Entrepreneur"
+  
+skills_expanding:
+  - Cloud-native development
+  - AI/ML integration
+  - Mobile app publishing
+  - System architecture
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+</div>
+
+<br>
+
+## <div align="center">📊 GitHub Combat Statistics ⚔️</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-895e-7d60ddb0d043.gif" width="200">
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kosaladathapththu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&custom_title=🚀%20Kosala's%20GitHub%20Universe"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kosaladathapththu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&custom_title=💻%20Code%20Language%20Mastery"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kosaladathapththu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=ff6b6b&fire=ff6b6b&currStreakLabel=00d4ff&dates=c9d1d9&sideLabels=00d4ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kosaladathapththu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=ff6b6b&point=ff6b6b&area=true&custom_title=🌌%20Contribution%20Galaxy" alt="GitHub Activity Graph"/>
+</div>
+
+<br>
+
+## <div align="center">🏆 Achievement Gallery 🎖️</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kosaladathapththu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+</div>
+
+<div align="center">
+  
+**🎯 GitHub Achievements Unlocked:**
+- 🏅 **YOLO** - Merged pull request without review
+- 🦈 **Pull Shark** - Merged pull requests
+- 📦 **21 Public Repositories** - Active contributor
+- 👥 **6 Followers** - Growing community
+- ⭐ **Multiple Starred Projects** - Quality code recognition
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+</div>
+
+<br>
+
+## <div align="center">🤝 Connect Across the Digital Cosmos 🌐</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b16d2dd.gif" width="400">
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kosala-d-athapaththu-a453b9248">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/KAthapathtu">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+  <a href="mailto:kosalaathapaththu1234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/kosaladathapththu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+  </a>
+  <a href="https://wa.me/94719148762">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A9FEF7&center=true&vCenter=true&width=800&lines=💬+Open+for+Freelance+%26+Collaboration+Projects;🚀+Available+for+Full-Stack+Development+Work;💡+Interested+in+Startup+%26+Innovation+Opportunities;🤝+Ready+to+Help+Fellow+Developers+%26+Students!" alt="Availability" />
+</div>
+
+<br>
+
+## <div align="center">💭 Philosophy & Developer Fuel ⚡</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284153-0b7d8c86-46e3-4b49-a0c9-8b7d5f2cbbf4.gif" width="350">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3500&pause=1200&color=FF6B6B&center=true&vCenter=true&width=900&lines=☕+Coffee+%2B+Curiosity+%2B+Code+%3D+💖+Magic;💻+%22Code+is+poetry+written+for+machines%22;🚀+Every+bug+is+a+puzzle+waiting+to+be+solved;⚡+Innovation+happens+outside+comfort+zones;🌟+Clean+code+tells+a+story;💡+The+best+way+to+predict+the+future+is+to+code+it" alt="Philosophy" />
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 🧠 **Development Principles**
+
+| 🎯 **Focus** | 💡 **Philosophy** | 🚀 **Action** |
+|:---:|:---:|:---:|
+| **Quality** | *"Readable = Maintainable"* | Self-documenting code |
+| **UX** | *"Design for humans"* | User-centered approach |
+| **Problem Solving** | *"Creative solutions exist"* | Think unconventionally |
+| **Learning** | *"Stay curious & hungry"* | Daily experimentation |
+| **Teamwork** | *"Great teams = Great software"* | Open collaboration |
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## <div align="center">🎮 Fun Developer Corner 🥚</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-0e4a2a4e-4d8c-4b6d-8c9c-0e8a8b4e6e7a.gif" width="500">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=🐛+Debugging+method%3A+Rubber+duck+%2B+coffee+conversations;🎵+Peak+coding+with+Lo-fi+beats+%26+rain+sounds;🌙+Night+owl+developer+—+2AM+%3D+peak+productivity;🎯+Can+spot+missing+semicolons+from+orbit;🍕+Pizza+%3D+Universal+coding+fuel+of+choice;🎮+Gaming+UI%2FUX+inspires+my+design+thinking" alt="Fun Facts" />
+</div>
+
+### 🏆 **Developer Achievement Unlocked:**
+<div align="center">
+
+```javascript
+const achievements = {
+    first_commit: "Started coding journey 3+ years ago 🥇",
+    fastest_debug: "Production bug fixed in 5 minutes ⚡",
+    active_repos: "21+ public repositories 📦",
+    projects_delivered: "15+ full-stack applications 🎯",
+    github_badges: "YOLO & Pull Shark achievements 🏅",
+    organization_member: "@AMKDA contributor 🤝",
+    coffee_consumed: "Immeasurable amounts ☕",
+    lines_of_code: "50,000+ and counting 💻"
+};
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kosaladathapththu&label=🌟+DIGITAL+VISITORS&color=blueviolet&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/kosaladathapththu?label=🚀+FOLLOWERS&style=for-the-badge&color=blue&labelColor=000000" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/kosaladathapththu?label=⭐+GITHUB+STARS&style=for-the-badge&color=yellow&labelColor=000000" alt="Stars"/>
+</div>
+
+<div align="center">
+
+### ✨ Ready to transform ideas into reality?
+### 🚀 Let's build something extraordinary together!
+### 💫 The digital universe awaits our collaboration!
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a7d-a0f6-6d8b7d0a5c9c.gif" width="120">
+  <br><br>
+  <i>✨ "Code with passion, debug with patience, deploy with confidence!" ✨</i>
+  <br><br>
+  <b>🌟 Thanks for exploring my digital universe! Let's create something amazing together! 🌟</b>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>✨ Crafted with ❤️ by Kosala | Fueled by ☕ & 💻 | Last Updated:
