@@ -1,209 +1,165 @@
-<div align="center">
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&amp;height=230&amp;text=Kosala%20Daneshwara%20Athapaththu&amp;fontAlign=50&amp;fontAlignY=40&amp;color=gradient" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Kosala%20Athapaththu&fontColor=fff&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20%7C%20Backend%20%7C%20Android&descAlignY=58&descSize=14" width="100%" />
+<h3 align="center">Hi 👋, I'm Kosala Daneshwara Athapaththu</h3>
+<p align="center">Software Engineering Undergraduate | Backend • Full-Stack • Android</p>
 
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosala-d-athapaththu-a453b9248/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KAthapathtu)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosalaathapaththu1234@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kosaladathapththu)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kosaladathapththu&style=for-the-badge&color=0891b2)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```java
-public class Kosala extends Developer {
-
-    String name     = "Kosala Daneshwara Athapaththu";
-    String degree   = "BSc (Hons) Software Engineering — NIBM, Colombo";
-    String location = "Colombo, Sri Lanka 🇱🇰";
-
-    String[] focus  = {
-        "Backend Development",
-        "Full-Stack Web Apps",
-        "Android Development",
-        "IoT & Robotics",
-        "Machine Learning"
-    };
-
-    String motto = "Build things that matter. Ship things that work.";
-}
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/kosala-d-athapaththu-a453b9248/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:kosalaathapaththu1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Mail-red?logo=gmail" alt="Email">
+  </a>
+  <a href="https://x.com/KAthapathtu">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter" alt="Twitter">
+  </a>
+</p>
 
 ---
 
-## 🚀 Typing Animation
+## 📖 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate+%40+NIBM;Building+Microservices+with+Spring+Boot;React+%7C+PHP+%7C+Java+%7C+Android;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-</div>
+- 🎓 Software Engineering Undergraduate (NIBM, Colombo, Sri Lanka)  
+- 🔧 Backend, Full-Stack, Android Development  
+- 💡 Strong with Java, Spring Boot, React, PHP, SQL/PLSQL, Microservices  
+- 🤖 Working on Robotics, IoT and ML integrated systems  
+- 🚀 Always learning and building small tools and effects  
 
 ---
 
-## 📌 Featured Projects
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+![Java](https://skillicons.dev/icons?i=java)  
+![Spring](https://skillicons.dev/icons?i=spring)  
+![React](https://skillicons.dev/icons?i=react)  
+![Javascript](https://skillicons.dev/icons?i=js)  
+![PHP](https://skillicons.dev/icons?i=php)  
+![HTML5](https://skillicons.dev/icons?i=html)  
+![CSS3](https://skillicons.dev/icons?i=css)  
+![MySQL](https://skillicons.dev/icons?i=mysql)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)  
+![Arduino](https://skillicons.dev/icons?i=arduino)  
+![Git](https://skillicons.dev/icons?i=git)
 
-### 🏨 Hotel Management System
-> **Microservices Architecture**
+---
 
-A distributed system built with Spring Boot microservices, handling room booking, guest management, billing, and reporting — all deployed as independent services with a dedicated React UI.
+## 🚀 Featured Projects
 
-**Tech:** `Spring Boot` `React` `MySQL` `Microservices` `REST API`
+### 🏨 Hotel Management System (Microservices)
+- Built with Java Spring Boot microservices architecture
+- Integrated React UI for all features
+- Includes room management, bookings, users & reports
+- Uses REST APIs, MySQL, Authentication
 
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github)](https://github.com/kosaladathapththu)
+🔗 https://github.com/kosaladathapththu/hotel-management-system
 
-</td>
-<td width="50%">
+---
 
 ### 🏠 Hostel Management System
-> **Full-Stack Admin Portal**
+- Web system with Admin & Matron roles
+- Inventory, payroll, monthly reporting
+- PHP + MySQL backend
 
-Complete hostel operations system with matron/admin workflows, room allocation, inventory tracking, payroll processing, and detailed report generation.
+🔗 https://github.com/kosaladathapththu/hostel-management-system
 
-**Tech:** `PHP` `MySQL` `XAMPP` `Bootstrap` `JavaScript`
-
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github)](https://github.com/kosaladathapththu)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 🤖 River Trash Collector Robot
-> **IoT & Robotics**
+- Arduino robotics system
+- Ultrasonic sensors detect trash
+- Servo collects & places into bin
+- Battery monitoring + LCD display
 
-Autonomous river cleanup robot using ultrasonic sensors, servo motors, LCD status display, and real-time battery monitoring. Built for real-world field deployment.
+🔗 https://github.com/kosaladathapththu/river-trash-robot
 
-**Tech:** `Arduino` `C++` `IoT` `Servo` `Sensors`
+---
 
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github)](https://github.com/kosaladathapththu)
+### 📱 PizzaMania Android App
+- Food ordering app
+- User login, menu, order placement
+- Java + Firebase (example)
 
-</td>
-<td width="50%">
+🔗 https://github.com/kosaladathapththu/pizzamania-android
 
-### 🧠 Fraud Detection ML System
-> **Machine Learning Pipeline**
+---
 
-End-to-end fraud detection pipeline using SMOTE oversampling, feature engineering, and multiple ML model evaluation with full preprocessing and benchmarking.
+### 🧠 Fraud Detection ML Project
+- Machine learning pipeline
+- Data balancing + model evaluation
+- Python + Scikit-Learn based solution
 
-**Tech:** `Python` `Scikit-learn` `Pandas` `SMOTE` `NumPy`
+🔗 https://github.com/kosaladathapththu/fraud-detection-ml
 
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github)](https://github.com/kosaladathapththu)
+---
 
-</td>
-</tr>
-</table>
+### 💡 Other Notable Repos
+- POS Barcode Item Adding Tool  
+  🔗 https://github.com/kosaladathapththu/pos-barcode-tool  
+- Android Game Prototype  
+  🔗 https://github.com/kosaladathapththu/android-game
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kosaladathapththu&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosaladathapththu&amp;layout=compact&amp;theme=radical&amp;hide_border=true" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kosaladathapththu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosaladathapththu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kosaladathapththu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kosaladathapththu&amp;theme=radical&amp;hide_border=true" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## ✨ Dynamic Effects
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kosaladathapththu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
+### 🎮 Typing Animation
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kosaladathapththu/kosaladathapththu/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kosaladathapththu/kosaladathapththu/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/kosaladathapththu/kosaladathapththu/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-> ⚠️ Snake won't show until you set up the GitHub Action below!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1000&amp;color=36BCF7&amp;width=600&amp;lines=Welcome+to+my+GitHub+Profile!;I+build+clean+backend+APIs+and+apps;Always+Learning+and+Building;Full-Stack+%2F+Android+%2F+IoT" />
+</p>
 
 ---
 
-## 📈 Activity Graph
+### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kosaladathapththu&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-💼 Open to **internships**, **collaborations**, and **freelance projects**
-
-📍 Based in **Colombo, Sri Lanka** · Available **remotely worldwide**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosala-d-athapaththu-a453b9248/)
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kosalaathapaththu1234@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kosaladathapththu&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=7" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
-</div>
+### 🐍 Contribution Snake Animation
+
+*(Add GitHub action to generate this: snake yml as earlier provided)*
+
+![snake gif](https://github.com/kosaladathapththu/kosaladathapththu/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📌 What I'm Working On
+
+- Building bigger Android apps  
+- Expand microservices features  
+- Add UI / UX improvements to robot dashboards  
+- Learn advanced Android game features
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  Email: <b>kosalaathapaththu1234@gmail.com</b>  
+  LinkedIn: <b>https://www.linkedin.com/in/kosala-d-athapaththu-a453b9248/</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&amp;height=100&amp;section=footer&amp;color=gradient" />
+</p>
