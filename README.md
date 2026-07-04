@@ -51,13 +51,15 @@ public class Kosala extends Developer {
     String degree   = "BSc (Hons) Software Engineering";
     String uni      = "NIBM / Coventry University";
     String location = "Colombo, Sri Lanka 🇱🇰";
-    int    repos    = 21; // and growing...
+    int    repos    = 30; // and growing...
+
+    String currentRole = "Software Developer Intern @ SLT-Mobitel";
 
     String[] focus = {
-        "Backend & Microservices",
         "Full-Stack Web Development",
+        "Backend & Microservices",
         "Android Development",
-        "IoT & Robotics",
+        "IoT & Renewable Energy Monitoring",
         "Machine Learning"
     };
 
@@ -71,7 +73,39 @@ public class Kosala extends Developer {
 <td width="45%" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=320&lines=💼+Software+Engineering+Student;🔥+3%2B+Years+Digital+Innovation;🌟+21%2B+Public+Repositories;📱+Full-Stack+%7C+Android+%7C+IoT;🏆+Always+learning%2C+always+shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=320&lines=💼+Software+Engineering+Undergraduate;🔥+Software+Developer+Intern+%40+SLT-Mobitel;🌟+30%2B+Public+Repositories;📱+Full-Stack+%7C+Android+%7C+IoT;🏆+Always+learning%2C+always+shipping" />
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Software Developer Intern
+**SLT-Mobitel · Colombo**
+`May 2026 — Present`
+
+- Built React-based operational dashboards
+- Integrated Node-RED APIs for live data flows
+- Connected ThingsBoard telemetry pipelines
+- Designed renewable energy monitoring UIs
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Renewable Energy Dashboard Developer
+**Ceylex Renewable Energy Projects**
+
+- Solar & hydro power plant dashboards
+- Wind power plant digital twin
+- MQTT telemetry visualization
+- Real-time plant status monitoring
+
 </td>
 </tr>
 </table>
@@ -94,7 +128,7 @@ public class Kosala extends Developer {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,php,js,html,css,python,cs,dotnet&perline=10&theme=dark" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,androidstudio,arduino,figma,vscode,docker&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,androidstudio,arduino,figma,vscode,netlify,firebase&perline=10&theme=dark" />
 </div>
 
 <br>
@@ -115,13 +149,14 @@ public class Kosala extends Developer {
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
 **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
@@ -137,21 +172,80 @@ public class Kosala extends Developer {
 <tr>
 <td width="50%">
 
-### 🏨 Hotel Management System
-> **Microservices Architecture**
+### 🛠️ AC Service Management System
+> **Client Project — Supun Group of Companies**
 
-- 🧠 6 Independent Spring Boot microservices
-- ⚛️ React frontend with live admin dashboard
-- 🏨 Room booking, guest management & billing
-- 💼 Employee payroll + inventory management
-- 🔄 RESTful API + MySQL
+- Customer & AC unit management
+- Service tracking & payment records
+- Google Sheets as live database (Apps Script)
+- Automated reminder emails
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/hotel-management-system)
+[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/AC-Service-Management-System)
+
+</td>
+<td width="50%">
+
+### 💧 Hydro Power Dashboard
+> **Renewable Energy Monitoring**
+
+- Real-time hydro plant operational data
+- Live plant status monitoring
+- Clean dashboard layout for energy data
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/hydro-power-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✍️ Poetry Web App
+> **Bilingual Client Portfolio Site**
+
+- English / Sinhala bilingual support
+- Decap CMS self-publishing for a non-technical client
+- Netlify Identity admin access
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/Poetry-Web-App)
+
+</td>
+<td width="50%">
+
+### ☀️ Solar Soiling Web App
+> **Solar Accuracy / ML-Based Analysis**
+
+- Solar panel soiling analysis
+- Data processing with notebooks
+- Supports solar plant performance monitoring
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/solar-soiling-web-app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Sola Edge Dashboard
+> **Solar Energy Dashboard**
+
+- Solar monitoring dashboard
+- Energy data visualization
+- Plant performance UI
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/Sola-Edge-Dashboard)
 
 </td>
 <td width="50%">
@@ -160,101 +254,76 @@ public class Kosala extends Developer {
 > **Full-Stack Admin Portal**
 
 - 🏫 End-to-end hostel operations
-- 👩‍💼 Admin & Matron role-based access control
 - 📅 Room allocation & inventory tracking
-- 💰 Automated billing & payroll processing
-- 📊 Comprehensive analytics & reports
+- 💰 Billing & payroll processing
+- 📊 Reports & analytics
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/hostel-management-system)
+[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/Hostel-Management-System)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 River Trash Collector Robot
-> **IoT & Robotics**
+### 🏨 Hotel Management System
+> **Microservices Architecture**
 
-- 🔭 Ultrasonic sensors detect floating trash
-- 🦾 Servo motors collect & sort into bin
-- 📟 LCD real-time status display
-- 🔋 Battery monitoring system
-- 🌊 Designed for real river deployment
+- 🧠 Microservice-based backend on Spring Boot
+- ⚛️ React frontend with admin dashboard
+- 🏨 Room booking, guest management & billing
+- 🔄 RESTful APIs + MySQL
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/river-trash-robot)
+[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/Hotel-Management-System)
 
 </td>
 <td width="50%">
 
-### 🍕 PizzaMania Restaurant Hub
-> **Android & Full-Stack**
+### 🍕 PizzaMania
+> **Android App**
 
-- 📱 Food ordering Android app + web portal
-- 👥 Customer relationship management
-- 🧾 Order tracking & live status updates
-- 💳 Payment gateway integration
-- 📈 Sales & revenue analytics
+- 📱 Food ordering Android app
+- 🗄️ Java + SQLite local storage
+- 🔥 Firebase integration
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/pizzamania-android)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 Fraud Detection ML System
-> **Machine Learning Pipeline**
-
-- 🔄 End-to-end preprocessing pipeline
-- ⚖️ SMOTE oversampling for class balance
-- 📊 Multi-model training & evaluation
-- 🎯 Feature engineering & selection
-- 📉 Comprehensive benchmark reporting
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/fraud-detection-ml)
-
-</td>
-<td width="50%">
-
-### 📚 Library Management System
-> **Desktop Application (C# / .NET)**
-
-- 📖 Comprehensive book cataloging
-- 👥 Member registration & management
-- 🔄 Borrowing, return & fine tracking
-- 🔍 Advanced search & filter system
-- 📊 Usage reports & analytics
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu)
+[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/kosaladathapththu/PizzaMania)
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>⚡ More projects</b></summary>
+<br>
+
+| Project | Description | Tech |
+|---|---|---|
+| [Landslide_Ditection-IOT](https://github.com/kosaladathapththu/Landslide_Ditection-IOT) | IoT-based landslide early-warning system | C++ |
+| [Trash-Collecting-Robot-For--River](https://github.com/kosaladathapththu/Trash-Collecting-Robot-For--River) | Robot system for river trash collection | Arduino, C++ |
+| [Online-Payments-Fraud-Detection](https://github.com/kosaladathapththu/Online-Payments-Fraud-Detection) | ML model for payment fraud detection | Python, Jupyter |
+| [LibraryManagementSystem](https://github.com/kosaladathapththu/LibraryManagementSystem) | Desktop app for library operations | C#, .NET |
+| [Smart-Student-Result-Management-System](https://github.com/kosaladathapththu/Smart-Student-Result-Management-System-using-Binary-Search-Tree-BST) | Result management system using a BST | Java |
+| [Code_Evolution_Tracker](https://github.com/kosaladathapththu/Code_Evolution_Tracker) | Debugging timeline tool (Stack, Linked List, BST/AVL) | Java |
+
+</details>
 
 ---
 
 ## ⚡ Current Focus & 2026 Vision
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=850&lines=🌱+Mastering+React+%2B+MongoDB+Integration;📱+Deep-diving+into+Android+Development;☁️+Exploring+AWS+%26+Azure+Cloud+Platforms;🤖+Building+AI-Powered+Applications;🚀+Expanding+Microservices+Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=850&lines=🌱+Mastering+React+%2B+Node-RED+integration;📡+Deep-diving+into+IoT+%26+ThingsBoard;☁️+Exploring+cloud+deployment;🤖+Building+AI-powered+applications;🚀+Expanding+full-stack+%26+microservices+skills" />
 </div>
 
 <br>
@@ -266,11 +335,10 @@ public class Kosala extends Developer {
 ### 🎯 Current Projects
 ```javascript
 const now = {
-  hotel_mgmt: "Real-time notifications",
-  android:    "Game prototype expansion",
-  ml:         "AI-powered fraud pipeline",
-  cloud:      "Docker containerization",
-  portfolio:  "21+ public repositories"
+  internship: "Renewable energy dashboards",
+  dashboards: "Hydro, solar & edge monitoring",
+  clients:    "CMS-driven client sites",
+  portfolio:  "30+ public repositories"
 };
 ```
 
@@ -280,11 +348,10 @@ const now = {
 ### 🚀 Goals 2026
 ```python
 goals_2026 = {
-    "cloud":      "15+ Deployments",
-    "mobile":     "3 Play Store Apps",
-    "open_source":"Contributions",
-    "certs":      "AWS/Azure Certified",
-    "github":     "200+ Stars & Followers"
+    "cloud":      "Production deployments",
+    "open_source":"More contributions",
+    "certs":      "Cloud certification",
+    "github":     "Grow stars & followers"
 }
 ```
 
@@ -299,14 +366,27 @@ path:
   ultimate: "Tech Entrepreneur"
 
 expanding:
-  - Cloud-native apps
+  - IoT & telemetry systems
+  - Full-stack architecture
   - AI/ML integration
-  - Mobile publishing
 ```
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📌 2026 Journey
+
+```mermaid
+timeline
+    title Kosala's 2026 Developer Journey
+    May 2026 : Started Internship at SLT-Mobitel
+    Jun 2026 : Built Renewable Energy Dashboards
+    Jul 2026 : Working with React, Node-RED & ThingsBoard
+    Future   : Full-Stack Software Engineer
+```
 
 ---
 
@@ -345,7 +425,7 @@ expanding:
   </picture>
 </div>
 
-> ⚠️ Set up the `snake.yml` GitHub Action to activate this!
+> ⚠️ You already have the special `kosaladathapththu` profile repo — it just needs the [Platane/snk](https://github.com/Platane/snk#-getting-started) GitHub Action (`snake.yml`) added to activate this. Happy to write that workflow file for you if you want it live.
 
 ---
 
@@ -378,19 +458,16 @@ expanding:
 ## 🎮 Fun Developer Corner
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=🐛+Debugging%3A+Rubber+duck+%2B+coffee+conversations;🌙+Night+owl+—+2AM+%3D+peak+productivity;🎯+Can+spot+a+missing+semicolon+from+orbit;🍕+Pizza+%3D+Universal+coding+fuel;🎮+Gaming+UI%2FUX+inspires+my+design+thinking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=🐛+Debugging%3A+Rubber+duck+%2B+coffee+conversations;🌙+Night+owl+—+late+nights+%3D+peak+productivity;🎯+Can+spot+a+missing+semicolon+from+orbit;🍕+Pizza+%3D+Universal+coding+fuel" />
 </div>
 
 <br>
 
 ```javascript
 const kosala = {
-    first_commit:       "3+ years ago 🥇",
-    active_repos:       "21+ public repositories 📦",
-    projects_delivered: "15+ full-stack applications 🎯",
-    github_badges:      ["YOLO 🏅", "Pull Shark 🦈"],
+    active_repos:       "30+ public repositories 📦",
+    projects_delivered: "Client + personal full-stack apps 🎯",
     coffee_consumed:    "Immeasurable ☕",
-    lines_of_code:      "50,000+ and counting 💻",
     current_status:     "Always building something cool 🚀"
 };
 ```
