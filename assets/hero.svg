@@ -1,0 +1,72 @@
+<svg width="1100" height="300" viewBox="0 0 1100 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f1f"/>
+      <stop offset="55%" stop-color="#111536"/>
+      <stop offset="100%" stop-color="#0b0f1f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; }
+      .mono { font-family: 'Consolas', 'Courier New', monospace; }
+      .sans { font-family: 'Segoe UI', Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1100" height="300" rx="18" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1097" height="297" rx="18" fill="none" stroke="#2a2f55" stroke-width="1.5"/>
+
+  <circle cx="930" cy="150" r="160" fill="url(#glow)"/>
+
+  <polygon points="1000,40 1030,58 1030,94 1000,112 970,94 970,58" fill="none" stroke="#a855f7" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="1045" cy="230" r="10" fill="none" stroke="#00d4ff" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.6"/>
+  <circle cx="60" cy="60" r="3" fill="#00d4ff" opacity="0.7"/>
+  <circle cx="90" cy="45" r="2" fill="#a855f7" opacity="0.6"/>
+
+  <rect x="40" y="40" width="1020" height="220" rx="10" fill="none" stroke="#2a2f6a" stroke-width="1.2" opacity="0.7"/>
+  <line x1="40" y1="112" x2="1060" y2="112" stroke="#2a2f6a" stroke-width="1" opacity="0.6"/>
+
+  <text x="66" y="92" class="mono" font-size="14" letter-spacing="4" fill="#00d4ff">HELLO, DIGITAL UNIVERSE</text>
+
+  <text x="66" y="164" class="title" font-size="50" fill="#ffffff">KOSALA ATHAPATHTHU</text>
+
+  <text x="66" y="200" class="title" font-size="20" letter-spacing="1" fill="url(#accent)">SOFTWARE ENGINEERING · FULL-STACK · IoT</text>
+
+  <!-- tag pills -->
+  <g class="sans" font-size="13" font-weight="700">
+    <rect x="66" y="216" width="76" height="30" rx="15" fill="#0e2a3d" stroke="#00d4ff" stroke-width="1"/>
+    <text x="104" y="236" fill="#5fe3ff" text-anchor="middle">REACT</text>
+
+    <rect x="152" y="216" width="102" height="30" rx="15" fill="#241238" stroke="#a855f7" stroke-width="1"/>
+    <text x="203" y="236" fill="#cba7ff" text-anchor="middle">SPRING BOOT</text>
+
+    <rect x="264" y="216" width="60" height="30" rx="15" fill="#2a1030" stroke="#ff6b6b" stroke-width="1"/>
+    <text x="294" y="236" fill="#ff9d9d" text-anchor="middle">IoT</text>
+
+    <rect x="334" y="216" width="76" height="30" rx="15" fill="#0e2a3d" stroke="#00d4ff" stroke-width="1"/>
+    <text x="372" y="236" fill="#5fe3ff" text-anchor="middle">CLOUD</text>
+  </g>
+
+  <!-- decorative hex frame (kept purely vector - no external image ref, since GitHub blocks images-inside-SVG when the SVG itself is loaded via an <img> tag) -->
+  <polygon points="905,60 985,105 985,195 905,240 825,195 825,105" fill="none" stroke="url(#accent)" stroke-width="2.5" filter="url(#softGlow)"/>
+  <polygon points="905,60 985,105 985,195 905,240 825,195 825,105" fill="#151a3a" opacity="0.5"/>
+  <text x="905" y="155" class="mono" font-size="12" fill="#5fe3ff" text-anchor="middle" opacity="0.7">SLT</text>
+  <text x="905" y="172" class="mono" font-size="12" fill="#cba7ff" text-anchor="middle" opacity="0.7">MOBITEL</text>
+
+  <circle cx="70" cy="278" r="5" fill="#22e07a"/>
+  <text x="86" y="283" class="mono" font-size="13" fill="#8b93c4">status: engineering tomorrow</text>
+</svg>
