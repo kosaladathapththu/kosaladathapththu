@@ -1,0 +1,96 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Kosala's system integration workflow</title>
+<desc id="desc">Animated flow from sensors and users through Node-RED and APIs to React dashboards, storage, automation, and deployment.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#060A18"/>
+    <stop offset=".5" stop-color="#0B1230"/>
+    <stop offset="1" stop-color="#07182C"/>
+  </linearGradient>
+  <linearGradient id="flow" x1="90" y1="0" x2="1110" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE"/>
+    <stop offset=".5" stop-color="#60A5FA"/>
+    <stop offset="1" stop-color="#A855F7"/>
+  </linearGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#8BD5FF" stroke-opacity=".045"/>
+  </pattern>
+  <style>
+    .sans{font-family:"Segoe UI",Arial,sans-serif}
+    .mono{font-family:Consolas,"Courier New",monospace}
+    .pipe{stroke-dasharray:11 12;animation:pipe 8s linear infinite}
+    .pulse{animation:pulse 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .pulse2{animation:pulse 2.2s ease-in-out .7s infinite;transform-box:fill-box;transform-origin:center}
+    .float{animation:float 5s ease-in-out infinite}
+    @keyframes pipe{to{stroke-dashoffset:-230}}
+    @keyframes pulse{0%,100%{opacity:.45;transform:scale(.82)}50%{opacity:1;transform:scale(1.2)}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+</defs>
+<rect x="1" y="1" width="1198" height="388" rx="28" fill="url(#bg)" stroke="#263665" stroke-width="2"/>
+<rect x="22" y="22" width="1156" height="346" rx="22" fill="url(#grid)"/>
+<text x="600" y="58" text-anchor="middle" fill="#F8FAFC" font-size="27" font-weight="800" class="sans">FROM REAL-WORLD SIGNALS TO USEFUL SOFTWARE</text>
+<text x="600" y="84" text-anchor="middle" fill="#8EA6CF" font-size="12" letter-spacing="2" class="mono">COLLECT • PROCESS • STORE • VISUALIZE • AUTOMATE • DEPLOY</text>
+
+<path d="M150 207H1050" stroke="#263665" stroke-width="8" stroke-linecap="round"/>
+<path d="M150 207H1050" stroke="url(#flow)" stroke-width="4" stroke-linecap="round" class="pipe" filter="url(#glow)"/>
+
+<g transform="translate(125 130)">
+  <rect width="170" height="155" rx="20" fill="#08152E" stroke="#2B4070"/>
+  <circle cx="85" cy="48" r="22" fill="#062438" stroke="#22D3EE"/>
+  <path d="M71 51c8-17 20-17 28 0M76 42c5-10 13-10 18 0" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="85" cy="55" r="4" fill="#22D3EE" class="pulse"/>
+  <text x="85" y="94" text-anchor="middle" fill="#67E8F9" font-size="14" font-weight="700" class="sans">INPUT</text>
+  <text x="85" y="118" text-anchor="middle" fill="#D7E3F8" font-size="11" class="sans">Sensors • Users • SCADA</text>
+  <text x="85" y="138" text-anchor="middle" fill="#91A8CE" font-size="10" class="mono">data + events</text>
+</g>
+
+<g transform="translate(335 130)" class="float">
+  <rect width="170" height="155" rx="20" fill="#0A1732" stroke="#39558B"/>
+  <circle cx="85" cy="48" r="22" fill="#101C3F" stroke="#60A5FA"/>
+  <path d="M72 48h26M78 38l-10 10 10 10M92 38l10 10-10 10" stroke="#93C5FD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="85" y="94" text-anchor="middle" fill="#93C5FD" font-size="14" font-weight="700" class="sans">INTEGRATION</text>
+  <text x="85" y="118" text-anchor="middle" fill="#E2E8F0" font-size="11" class="sans">Node-RED • REST • MQTT</text>
+  <text x="85" y="138" text-anchor="middle" fill="#AAB8D4" font-size="10" class="mono">validation + routing</text>
+</g>
+
+<g transform="translate(545 130)">
+  <rect width="170" height="155" rx="20" fill="#0C1738" stroke="#405D98"/>
+  <circle cx="85" cy="48" r="22" fill="#0B1B3C" stroke="#60A5FA"/>
+  <ellipse cx="85" cy="40" rx="15" ry="6" stroke="#93C5FD" stroke-width="2"/>
+  <path d="M70 40v18c0 8 30 8 30 0V40M70 49c0 8 30 8 30 0" stroke="#93C5FD" stroke-width="2"/>
+  <text x="85" y="94" text-anchor="middle" fill="#BFDBFE" font-size="14" font-weight="700" class="sans">DATA</text>
+  <text x="85" y="118" text-anchor="middle" fill="#E2E8F0" font-size="11" class="sans">MySQL • Firebase • Sheets</text>
+  <text x="85" y="138" text-anchor="middle" fill="#AAB8D4" font-size="10" class="mono">records + telemetry</text>
+</g>
+
+<g transform="translate(755 130)" class="float">
+  <rect width="170" height="155" rx="20" fill="#10142F" stroke="#4A4F91"/>
+  <circle cx="85" cy="48" r="22" fill="#171437" stroke="#818CF8"/>
+  <path d="M70 58V44l10 7 10-17 10 11" stroke="#A5B4FC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="85" y="94" text-anchor="middle" fill="#C7D2FE" font-size="14" font-weight="700" class="sans">EXPERIENCE</text>
+  <text x="85" y="118" text-anchor="middle" fill="#F1F5F9" font-size="11" class="sans">React • Dashboards • UX</text>
+  <text x="85" y="138" text-anchor="middle" fill="#B7B8D7" font-size="10" class="mono">decisions + control</text>
+</g>
+
+<g transform="translate(965 130)">
+  <rect width="170" height="155" rx="20" fill="#17102E" stroke="#65439A"/>
+  <circle cx="85" cy="48" r="22" fill="#20123D" stroke="#A855F7"/>
+  <path d="M71 51h28M78 43l7-8 7 8M85 35v24" stroke="#D8B4FE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="85" y="94" text-anchor="middle" fill="#E9D5FF" font-size="14" font-weight="700" class="sans">DELIVERY</text>
+  <text x="85" y="118" text-anchor="middle" fill="#F1F5F9" font-size="11" class="sans">Netlify • Docker • Cloud</text>
+  <text x="85" y="138" text-anchor="middle" fill="#C2AED9" font-size="10" class="mono">monitor + improve</text>
+</g>
+
+<circle cx="310" cy="207" r="6" fill="#22D3EE" class="pulse"/>
+<circle cx="520" cy="207" r="6" fill="#60A5FA" class="pulse2"/>
+<circle cx="730" cy="207" r="6" fill="#818CF8" class="pulse"/>
+<circle cx="940" cy="207" r="6" fill="#A855F7" class="pulse2"/>
+
+<text x="600" y="337" text-anchor="middle" fill="#AFC3E8" font-size="12" class="mono">design goal: make complex operational data clear, safe, and useful</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Kosala profile footer</title>
+<desc id="desc">Animated blue and purple wave footer with a thank-you message.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="190" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#07182C"/>
+    <stop offset=".5" stop-color="#0B1230"/>
+    <stop offset="1" stop-color="#140C2A"/>
+  </linearGradient>
+  <linearGradient id="wave" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE"/>
+    <stop offset=".5" stop-color="#3B82F6"/>
+    <stop offset="1" stop-color="#A855F7"/>
+  </linearGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .sans{font-family:"Segoe UI",Arial,sans-serif}
+    .mono{font-family:Consolas,"Courier New",monospace}
+    .move1{animation:move1 9s ease-in-out infinite}
+    .move2{animation:move2 12s ease-in-out infinite}
+    .pulse{animation:pulse 2.3s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    @keyframes move1{0%,100%{transform:translateX(0)}50%{transform:translateX(-35px)}}
+    @keyframes move2{0%,100%{transform:translateX(0)}50%{transform:translateX(45px)}}
+    @keyframes pulse{0%,100%{opacity:.4;transform:scale(.8)}50%{opacity:1;transform:scale(1.2)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+</defs>
+<rect width="1200" height="190" rx="26" fill="url(#bg)"/>
+<path d="M-80 125C120 52 270 173 455 111C645 47 793 168 1280 75V190H-80V125Z" fill="url(#wave)" opacity=".28" class="move1"/>
+<path d="M-90 146C135 81 315 182 500 130C715 70 875 177 1290 105V190H-90V146Z" fill="url(#wave)" opacity=".48" class="move2"/>
+<path d="M0 107C210 44 355 155 566 99C775 43 948 140 1200 76" stroke="url(#wave)" stroke-width="3" filter="url(#glow)" opacity=".8"/>
+<circle cx="116" cy="104" r="6" fill="#22D3EE" class="pulse"/>
+<circle cx="567" cy="98" r="6" fill="#60A5FA" class="pulse"/>
+<circle cx="1082" cy="93" r="6" fill="#A855F7" class="pulse"/>
+<text x="600" y="46" text-anchor="middle" fill="#F8FAFC" font-size="22" font-weight="800" class="sans">THANKS FOR VISITING</text>
+<text x="600" y="72" text-anchor="middle" fill="#AFC3E8" font-size="12" letter-spacing="1.8" class="mono">BUILD WITH CLARITY • DEBUG WITH PATIENCE • DEPLOY WITH CONFIDENCE</text>
+<text x="600" y="176" text-anchor="middle" fill="#DDE7F8" font-size="11" class="mono">© 2026 Kosala Athapaththu • Sri Lanka</text>
+</svg>

@@ -1,0 +1,123 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Kosala Athapaththu software engineering profile banner</title>
+<desc id="desc">Animated cyber-style banner for a full-stack, IoT, and renewable-energy software engineer.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#050816"/>
+    <stop offset=".48" stop-color="#0A1230"/>
+    <stop offset="1" stop-color="#071A31"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="100" y1="40" x2="1110" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE"/>
+    <stop offset=".48" stop-color="#60A5FA"/>
+    <stop offset="1" stop-color="#A855F7"/>
+  </linearGradient>
+  <radialGradient id="glowC" cx="0" cy="0" r="1" gradientTransform="translate(965 172) rotate(160) scale(300 220)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE" stop-opacity=".26"/>
+    <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowP" cx="0" cy="0" r="1" gradientTransform="translate(790 330) rotate(10) scale(330 190)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#A855F7" stop-opacity=".18"/>
+    <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#8BD5FF" stroke-opacity=".065"/>
+  </pattern>
+  <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+    <feGaussianBlur stdDeviation="7" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+    <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000814" flood-opacity=".65"/>
+  </filter>
+  <clipPath id="panelClip"><rect x="22" y="22" width="1156" height="356" rx="24"/></clipPath>
+  <style>
+    .mono{font-family:Consolas,"Courier New",monospace}
+    .sans{font-family:"Segoe UI",Arial,sans-serif}
+    .pulse{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .pulse2{animation:pulse 2.4s ease-in-out .7s infinite;transform-box:fill-box;transform-origin:center}
+    .floatA{animation:floatA 5.8s ease-in-out infinite}
+    .floatB{animation:floatB 6.8s ease-in-out infinite}
+    .dash{stroke-dasharray:12 16;animation:dash 13s linear infinite}
+    .scan{animation:scan 5.8s linear infinite}
+    .blink{animation:blink 1.1s steps(2,end) infinite}
+    .bar1{animation:bar 3.8s ease-in-out infinite;transform-box:fill-box;transform-origin:left center}
+    .bar2{animation:bar 4.6s ease-in-out .4s infinite;transform-box:fill-box;transform-origin:left center}
+    .bar3{animation:bar 4.2s ease-in-out .8s infinite;transform-box:fill-box;transform-origin:left center}
+    @keyframes pulse{0%,100%{opacity:.45;transform:scale(.82)}50%{opacity:1;transform:scale(1.18)}}
+    @keyframes floatA{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+    @keyframes floatB{0%,100%{transform:translate(0,0)}50%{transform:translate(7px,-8px)}}
+    @keyframes dash{to{stroke-dashoffset:-280}}
+    @keyframes scan{0%{transform:translateX(-360px);opacity:0}12%{opacity:.55}88%{opacity:.55}100%{transform:translateX(1290px);opacity:0}}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes bar{0%,100%{transform:scaleX(.45)}50%{transform:scaleX(1)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+</defs>
+
+<rect x="1" y="1" width="1198" height="398" rx="30" fill="url(#bg)" stroke="#263665" stroke-width="2"/>
+<rect x="22" y="22" width="1156" height="356" rx="24" fill="url(#grid)"/>
+<rect x="22" y="22" width="1156" height="356" rx="24" fill="url(#glowC)"/>
+<rect x="22" y="22" width="1156" height="356" rx="24" fill="url(#glowP)"/>
+<g clip-path="url(#panelClip)">
+  <rect x="-330" y="0" width="330" height="400" fill="url(#accent)" opacity=".07" class="scan"/>
+</g>
+
+<path d="M42 86H1158" stroke="#263665" stroke-opacity=".72"/>
+<circle cx="58" cy="54" r="5" fill="#22D3EE"/>
+<circle cx="78" cy="54" r="5" fill="#60A5FA" fill-opacity=".72"/>
+<circle cx="98" cy="54" r="5" fill="#A855F7" fill-opacity=".7"/>
+<text x="120" y="59" fill="#91A8CE" font-size="13" letter-spacing="2.2" class="mono">PROFILE://KOSALA.ATHAPATHTHU</text>
+<circle cx="1080" cy="54" r="5" fill="#34D399" class="pulse"/>
+<text x="1065" y="59" fill="#5EEAD4" font-size="12" text-anchor="end" class="mono">AVAILABLE TO BUILD</text>
+
+<g transform="translate(66 126)">
+  <text x="0" y="0" fill="#22D3EE" font-size="14" letter-spacing="5" class="mono">HELLO, DIGITAL UNIVERSE</text>
+  <text x="0" y="66" fill="#F8FAFC" font-size="58" font-weight="800" letter-spacing=".8" class="sans">KOSALA ATHAPATHTHU</text>
+  <text x="0" y="108" fill="#B9C9E7" font-size="20" font-weight="700" letter-spacing="1.7" class="sans">SOFTWARE ENGINEERING • FULL-STACK • IoT • ENERGY TECH</text>
+
+  <g transform="translate(0 140)">
+    <rect width="104" height="36" rx="18" fill="#061F32" stroke="#22D3EE"/>
+    <text x="52" y="23" text-anchor="middle" fill="#67E8F9" font-size="12" font-weight="700" class="sans">REACT</text>
+    <rect x="116" width="138" height="36" rx="18" fill="#23143C" stroke="#A855F7"/>
+    <text x="185" y="23" text-anchor="middle" fill="#D8B4FE" font-size="12" font-weight="700" class="sans">SPRING BOOT</text>
+    <rect x="266" width="76" height="36" rx="18" fill="#34131F" stroke="#FB7185"/>
+    <text x="304" y="23" text-anchor="middle" fill="#FDA4AF" font-size="12" font-weight="700" class="sans">IoT</text>
+    <rect x="354" width="104" height="36" rx="18" fill="#082B31" stroke="#2DD4BF"/>
+    <text x="406" y="23" text-anchor="middle" fill="#5EEAD4" font-size="12" font-weight="700" class="sans">NODE-RED</text>
+  </g>
+
+  <g transform="translate(0 210)">
+    <circle cx="5" cy="0" r="5" fill="#34D399" class="pulse"/>
+    <text x="20" y="5" fill="#8EA6CF" font-size="13" class="mono">status: turning real-world systems into clear software</text>
+    <rect x="404" y="-10" width="8" height="18" rx="1" fill="#22D3EE" class="blink"/>
+  </g>
+</g>
+
+<g transform="translate(824 106)">
+  <path d="M138 0L250 65V195L138 260L26 195V65L138 0Z" fill="#0B1736" stroke="url(#accent)" stroke-width="3" filter="url(#glow)"/>
+  <path d="M138 18L234 74V186L138 242L42 186V74L138 18Z" fill="#08132E" stroke="#2B4070"/>
+  <circle cx="138" cy="130" r="82" fill="none" stroke="url(#accent)" stroke-width="2.5" class="dash"/>
+  <circle cx="138" cy="130" r="58" fill="#07152B" stroke="#334879"/>
+  <text x="138" y="118" text-anchor="middle" fill="#67E8F9" font-size="15" font-weight="800" class="sans">SLT-MOBITEL</text>
+  <text x="138" y="141" text-anchor="middle" fill="#C4B5FD" font-size="11" letter-spacing="1.8" class="mono">SOFTWARE INTERN</text>
+  <text x="138" y="162" text-anchor="middle" fill="#7DD3FC" font-size="10" letter-spacing="1.3" class="mono">REACT • API • IoT</text>
+  <circle cx="138" cy="31" r="7" fill="#22D3EE" class="pulse"/>
+  <circle cx="230" cy="135" r="6" fill="#A855F7" class="pulse2"/>
+  <circle cx="53" cy="182" r="5" fill="#34D399" class="pulse"/>
+</g>
+
+<g class="floatA">
+  <rect x="995" y="82" width="142" height="64" rx="15" fill="#0A1730" stroke="#334879"/>
+  <text x="1012" y="104" fill="#7DD3FC" font-size="10" letter-spacing="1.4" class="mono">LIVE TELEMETRY</text>
+  <rect x="1012" y="117" width="18" height="4" rx="2" fill="#22D3EE" class="bar1"/>
+  <rect x="1012" y="128" width="50" height="4" rx="2" fill="#60A5FA" class="bar2"/>
+  <rect x="1012" y="139" width="92" height="4" rx="2" fill="#A855F7" class="bar3"/>
+</g>
+
+<g class="floatB">
+  <rect x="742" y="297" width="145" height="58" rx="15" fill="#0A1730" stroke="#334879"/>
+  <text x="758" y="320" fill="#C4B5FD" font-size="10" letter-spacing="1.2" class="mono">DEPLOYMENT</text>
+  <text x="758" y="342" fill="#34D399" font-size="12" font-weight="700" class="mono">● STABLE</text>
+</g>
+</svg>
