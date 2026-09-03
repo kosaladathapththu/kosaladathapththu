@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-ultimate.svg" width="100%" alt="Kosala Athapaththu — Software Engineering, Full-Stack, IoT and Energy Technology" />
+  <img src="./assets/hero-ultimate.svg" width="100%" alt="Kosala D. Athapaththu — Software Engineering, Full-Stack, IoT and Energy Technology" />
 </div>
 
 <br/>
